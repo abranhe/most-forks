@@ -1,4 +1,8 @@
-![Fork it Logo](img/fork.png)
+<p align="center">
+    <img width="300" src="img/fork.png" alt="Fork it!">
+	<br>
+	<br>
+</p>
 # Let's Fork it! :repeat:
 
 ### Contributing
