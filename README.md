@@ -1,5 +1,5 @@
 # Let's Fork it! :repeat:
-![Fork it Logo](https://avatars2.githubusercontent.com/u/33976034?s=200&v=4)
+![Fork it Logo]("img/fork.png")
 
 ### Contributing
 Fork this project and add your `repository name` + `repository link` + `author` + `original repository link` to the [weFork Repository](https://github.com/Fork-it/weFork) list below, then make a pull request so will look like this:
@@ -26,4 +26,4 @@ If you want to join the `Fork-it`  Organization just visit [join](https://github
 | [Reac Native Navigation](https://github.com/fork-it/react-native-navigation)|[Wix](https://github.com/wix/react-native-navigation)|
 
 
-![Fork it Lovgo](href="img/fork100px")
+![Fork it Logo]("img/fork100px.png")
