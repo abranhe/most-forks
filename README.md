@@ -1,11 +1,12 @@
 <html>
 
 <p id="top"><p>
-<h1 align="center">
+<p align="center">
     <img width="300" src="img/fork-it.png" alt="Fork it!"><br><br>
-</h1>
+</hp>
 
 <h4 align="center">Let's Fork it!<h4>
+
 
 <p align="center">
 	<br><br>
@@ -15,21 +16,26 @@
 	<a href="#repositories">Repositories</a>&nbsp;&nbsp;&nbsp;
 	<br><br>
 </p>
+
+---
+
 <br>
 <h4 id="contributing" align="center">Contributing 🔁 </h4>
 <br>
-
+<html>
+	
 Fork this project and add your `repository name` + `repository link` + `author` + `original repository link` to [`weFork`](https://github.com/Fork-it/weFork), then make a pull request so will look like this:
 
-<html>
-
-
+<br>
 
 ```markdown
 | [Atom](https://github.com/fork-it/atom) |[Atom](https://github.com/atom/atom)|
     ⬆️            ⬆️                          ⬆️              ⬆️
  Repo Name    Repo Link                     Author   Original Repo Link
 ```
+
+<br>
+
 We will fork your repository with your desired `Repo Name` + your desired `Repo Link`. **Make sure the desired url is not taken by someone else's repository**
 
 <br>
