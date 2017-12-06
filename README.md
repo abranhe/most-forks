@@ -1,12 +1,12 @@
-<p align="center">
-    <img width="300" src="img/fork-it.png" alt="Fork it!">
-	<br>
-	<br>
-</p>
+<!-- Logo -->
+<h1 align="center">
+    <img width="300" src="img/fork-it.png" alt="Fork it!"><br><br>
+</h1>
 
-# Let's Fork it! :repeat:
+<h1 align="center"> Let's Fork it! 🔁 </h1>	
 
-### Contributing
+<h4 align="center">Contributing<h4>
+
 Fork this project and add your `repository name` + `repository link` + `author` + `original repository link` to [`weFork`](https://github.com/Fork-it/weFork), then make a pull request so will look like this:
 
 ```markdown
