@@ -59,6 +59,8 @@ If you want to join the `Fork-it` ![Fork it Logo](img/fork15px.png) Organization
 | [Reac Native Navigation](https://github.com/fork-it/react-native-navigation)|[Wix](https://github.com/wix/react-native-navigation)|[![Reac Native Navigation](https://img.shields.io/github/forks/wix/react-native-navigation.svg?style=social&label=Fork)](https://github.com/wix/react-native-navigation/fork)|
 | [Three.js 3️⃣](https://github.com/fork-it/three.js)|[Mrdoob](https://github.com/mrdoob/three.js)|[![Three.js](https://img.shields.io/github/forks/mrdoob/three.js.svg?style=social&label=Fork)](https://github.com/mrdoob/three.js/fork)|
 | [Emoji Cheat Sheet](https://github.com/fork-it/emoji-cheat-sheet.com)|[WebpageFX](https://github.com/WebpageFX/emoji-cheat-sheet.com)|[![Emoji Cheat Sheet](https://img.shields.io/github/forks/WebpageFX/emoji-cheat-sheet.com.svg?style=social&label=Fork)](https://github.com/WebpageFX/emoji-cheat-sheet.com/fork)|
+| [Swift ](https://github.com/fork-it/swift)|[Apple](https://github.com/apple/swift)|[![Swift](https://img.shields.io/github/forks/apple/swift.svg?style=social&label=Fork)](https://github.com/apple/swift/fork)|
+
 
 <html>
 	<p align="center">
