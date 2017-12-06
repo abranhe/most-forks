@@ -9,8 +9,7 @@
 
 <p align="center">
 	<a href="awesome.md"><br> 🔁 Contributing</a>&nbsp;&nbsp;&nbsp;
-	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
+	<a href="#join">Join</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://www.stickermule.com/marketplace/10034-awesome">Sticker</a>
 </p>
@@ -30,7 +29,10 @@ Fork this project and add your `repository name` + `repository link` + `author` 
 ```
 We will fork your repository with your desired `Repo Name` + your desired `Repo Link`. **Make sure the desired url is not taken by someone else's repository**
 
-### Join
+
+<h1 id="join" align="center">Join</h1>
+
+
 If you want to join the `Fork-it` ![Fork it Logo](img/fork15px.png) Organization just click on [join](https://github.com/fork-it/join), then follow the instructions, and you will be for sure part of us.
 
 | Repository | Author |
