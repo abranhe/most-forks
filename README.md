@@ -1,4 +1,4 @@
-# List of the projects Fork it!
+# Let's Fork it! :repeat:
 ![Fork it Logo](https://avatars2.githubusercontent.com/u/33976034?s=200&v=4)
 
 ### Contributing
@@ -12,7 +12,7 @@ We will fork your repository
 | Repository | Author |
 | ------ | ----------- |
 | [Atom :atom:](https://github.com/fork-it/atom) |[Atom](https://github.com/atom/atom)|
-| [Awesome😎 ](https://github.com/fork-it/awesome) |[Sindresorhus](https://github.com/sindresorhus/awesome)|
+| [Awesome 😎 ](https://github.com/fork-it/awesome) |[Sindresorhus](https://github.com/sindresorhus/awesome)|
 | [Bootstrap ♌️](https://github.com/fork-it/bootstrap)|[Twbs](https://github.com/twbs/bootstrap)|
 | [VS Code 🆚](https://github.com/fork-it/vscode)|[Microsoft](https://github.com/Microsoft/vscode)|
 | [Webvrrocks 🎮](https://github.com/fork-it/webbrrocks)|[WebVRRocks](https://github.com/WebVRRocks/webvrrocks)|
