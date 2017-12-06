@@ -11,7 +11,7 @@
 	<a href="#contributing">🔁 Contributing</a>&nbsp;&nbsp;&nbsp;
 	<a href="#join"> 🤝  Join</a>&nbsp;&nbsp;&nbsp;
 	<img src="img/fork15px.png" alt="Fork it!">
-	<a href="#repositories">Repository</a>&nbsp;&nbsp;&nbsp;
+	<a href="#repositories">Repositories</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <h4 id="contributing" align="center">🔁 Contributing</h4>
