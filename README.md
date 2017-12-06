@@ -51,7 +51,7 @@ If you want to join the `Fork-it` ![Fork it Logo](img/fork15px.png) Organization
 | Repository | Author |Forks|
 | ------ | ----------- | ---- |
 | [Atom :atom:](https://github.com/fork-it/atom) |[Atom](https://github.com/atom/atom)| [![Atom](https://img.shields.io/github/forks/atom/atom.svg?style=social&label=Fork)](https://github.com/atom/atom/fork)|
-| [Awesome 😎 ](https://github.com/fork-it/awesome) |[Sindresorhus](https://github.com/sindresorhus/awesome)|![Awesome](https://img.shields.io/github/forks/sindresorhus/awesome.svg?style=social&label=Fork)|
+| [Awesome 😎 ](https://github.com/fork-it/awesome) |[Sindresorhus](https://github.com/sindresorhus/awesome)|[![Awesome](https://img.shields.io/github/forks/sindresorhus/awesome.svg?style=social&label=Fork)](https://github.com/sindresorhus/awesome/fork)|
 | [Bootstrap ♌️](https://github.com/fork-it/bootstrap)|[Twbs](https://github.com/twbs/bootstrap)|![Bootstrap](https://img.shields.io/github/forks/twbs/bootstrap.svg?style=social&label=Fork)|
 | [VS Code 🆚](https://github.com/fork-it/vscode)|[Microsoft](https://github.com/Microsoft/vscode)|![VS Code](https://img.shields.io/github/forks/Microsoft/vscode.svg?style=social&label=Fork)|
 | [Webvrrocks 🎮](https://github.com/fork-it/webbrrocks)|[WebVRRocks](https://github.com/WebVRRocks/webvrrocks)|![Webvrrocks](https://img.shields.io/github/forks/WebVRRocks/webvrrocks.svg?style=social&label=Fork)|
