@@ -45,5 +45,7 @@ If you want to join the `Fork-it` ![Fork it Logo](img/fork15px.png) Organization
 ![Fork it Logo](img/fork50px.png)
 
 <html>
-	<a  href="#top" align="center">Top</a>
+	<div style="text-align: center">
+		<a  href="#top">Top</a>
+	</div>
 </html>
