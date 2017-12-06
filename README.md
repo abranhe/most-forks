@@ -1,8 +1,9 @@
 <p align="center">
-    <img width="300" src="img/fork.png" alt="Fork it!">
+    <img width="300" src="img/fork-it.png" alt="Fork it!">
 	<br>
 	<br>
 </p>
+
 # Let's Fork it! :repeat:
 
 ### Contributing
