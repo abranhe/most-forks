@@ -50,14 +50,14 @@ If you want to join the `Fork-it` ![Fork it Logo](img/fork15px.png) Organization
 
 | Repository | Author |Forks|
 | ------ | ----------- | ---- |
-| [Atom :atom:](https://github.com/fork-it/atom) |[Atom](https://github.com/atom/atom)| ![fsd](https://img.shields.io/github/forks/atom/atom.svg)|
-| [Awesome 😎 ](https://github.com/fork-it/awesome) |[Sindresorhus](https://github.com/sindresorhus/awesome)|![s](https://img.shields.io/github/forks/sindresorhus/awesome.svg)|
-| [Bootstrap ♌️](https://github.com/fork-it/bootstrap)|[Twbs](https://github.com/twbs/bootstrap)|![s](https://img.shields.io/github/forks/twbs/bootstrap.svg)|
-| [VS Code 🆚](https://github.com/fork-it/vscode)|[Microsoft](https://github.com/Microsoft/vscode)|![s](https://img.shields.io/github/forks/Microsoft/vscode.svg)|
-| [Webvrrocks 🎮](https://github.com/fork-it/webbrrocks)|[WebVRRocks](https://github.com/WebVRRocks/webvrrocks)|![s](https://img.shields.io/github/forks/WebVRRocks/webvrrocks.svg)|
-| [Reac Native ⚛️](https://github.com/fork-it/react-native)|[Facebook](https://github.com/facebook/react-native)|![s](https://img.shields.io/github/forks/facebook/react-native.svg)|
-| [Reac Native Navigation](https://github.com/fork-it/react-native-navigation)|[Wix](https://github.com/wix/react-native-navigation)|![s](https://img.shields.io/github/forks/wix/react-native-navigation.svg)|
-| [Three.js](https://github.com/fork-it/three.js)|[Mrdoob](https://github.com/mrdoob/three.js)|![s](https://img.shields.io/github/forks/mrdoob/three.js.svg)|
+| [Atom :atom:](https://github.com/fork-it/atom) |[Atom](https://github.com/atom/atom)| ![Atom](https://img.shields.io/github/forks/atom/atom.svg)|
+| [Awesome 😎 ](https://github.com/fork-it/awesome) |[Sindresorhus](https://github.com/sindresorhus/awesome)|![Awesome](https://img.shields.io/github/forks/sindresorhus/awesome.svg)|
+| [Bootstrap ♌️](https://github.com/fork-it/bootstrap)|[Twbs](https://github.com/twbs/bootstrap)|![Bootstrap](https://img.shields.io/github/forks/twbs/bootstrap.svg)|
+| [VS Code 🆚](https://github.com/fork-it/vscode)|[Microsoft](https://github.com/Microsoft/vscode)|![VS Code](https://img.shields.io/github/forks/Microsoft/vscode.svg)|
+| [Webvrrocks 🎮](https://github.com/fork-it/webbrrocks)|[WebVRRocks](https://github.com/WebVRRocks/webvrrocks)|![Webvrrocks](https://img.shields.io/github/forks/WebVRRocks/webvrrocks.svg)|
+| [Reac Native ⚛️](https://github.com/fork-it/react-native)|[Facebook](https://github.com/facebook/react-native)|![Reac Native](https://img.shields.io/github/forks/facebook/react-native.svg)|
+| [Reac Native Navigation](https://github.com/fork-it/react-native-navigation)|[Wix](https://github.com/wix/react-native-navigation)|![Reac Native Navigation](https://img.shields.io/github/forks/wix/react-native-navigation.svg)|
+| [Three.js 3️⃣](https://github.com/fork-it/three.js)|[Mrdoob](https://github.com/mrdoob/three.js)|![Three.js](https://img.shields.io/github/forks/mrdoob/three.js.svg)|
 
 
 
