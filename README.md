@@ -1,6 +1,6 @@
 <html>
 <!-- Logo -->
-<p id="top"> Toop <p>
+<p id="top"><p>
 <h1 align="center">
     <img width="300" src="img/fork-it.png" alt="Fork it!"><br><br>
 </h1>
@@ -43,3 +43,6 @@ If you want to join the `Fork-it` ![Fork it Logo](img/fork15px.png) Organization
 
 
 ![Fork it Logo](img/fork50px.png)
+<html>
+	<a href="#top">top</a>
+	</html>
