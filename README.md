@@ -29,9 +29,31 @@ Fork this project and add your `repository name` + `repository link` + `author` 
 <br>
 
 ```markdown
-| [Atom](https://github.com/fork-it/atom) |[Atom](https://github.com/atom/atom)|
-    ⬆️            ⬆️                          ⬆️              ⬆️
- Repo Name    Repo Link                     Author   Original Repo Link
+| Repository | Author |Forks|
+|[Repo Name](Desired URL)|[Repo Name](Original Repo URL)|![[Repo Name](ForkImagen)](RepoURL/fork)|
+
+|[Repo Name](Desired URL)|[Repo Name](Original Repo URL)|![[Repo Name](https://img.shields.io/github/forks/USERNAME/REPO.svg?style=social&label=Fork)](RepoURL/fork)|
+```
+### COLUMN 1
+
+```md
+| [Atom :atom:](https://github.com/fork-it/atom) |
+    ⬆️                        ⬆️   
+ Repo Name              Repo Desired URL (ex: atom)
+ ```
+ ### COLUMN 2
+ ```md
+[Atom](https://github.com/atom/atom)|
+  ⬆️            ⬆️
+Repo Name  Repo Original URL 
+```
+### COLUMN 3
+```md
+                                           USERNAME/REPO_NAME
+					        ⬇️
+[![Atom](https://img.shields.io/github/forks/ATOM/ATOM.svg?style=social&label=Fork)](https://github.com/atom/atom/fork)|
+    ⬆️                                     ⬆️                                                         ⬆️
+ Repo Name                        Repo Live Fork Imagen                                      Original Repo URL/fork
 ```
 
 <br>
