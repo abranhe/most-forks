@@ -2,18 +2,17 @@
 # Let's Fork it! :repeat:
 
 ### Contributing
-Fork this project and add your `repository name` + `repository link` + `author` + `original repository link` to the [weFork Repository](https://github.com/Fork-it/weFork) list below, then make a pull request so will look like this:
+Fork this project and add your `repository name` + `repository link` + `author` + `original repository link` to [`weFork`](https://github.com/Fork-it/weFork), then make a pull request so will look like this:
 
 ```markdown
 | [Atom](https://github.com/fork-it/atom) |[Atom](https://github.com/atom/atom)|
     ⬆️            ⬆️                          ⬆️              ⬆️
  Repo Name    Repo Link                     Author   Original Repo Link
 ```
-We will fork your repository with your desired `Repo Name` + your desired `Repo Link`. **Make sure the desired url is not taken by someone's repository**
+We will fork your repository with your desired `Repo Name` + your desired `Repo Link`. **Make sure the desired url is not taken by someone else's repository**
 
 ### Join
-If you want to join the `Fork-it` ![Fork it Logo](img/fork15px.png) Organization just visit [join](https://github.com/fork-it/join) and you for sure will be part of us.
-<i class="fa fa-code-fork" aria-hidden="true"></i>
+If you want to join the `Fork-it` ![Fork it Logo](img/fork15px.png) Organization just click on [join](https://github.com/fork-it/join), then follow the instructions, and you will be for sure part of us.
 
 | Repository | Author |
 | ------ | ----------- |
