@@ -14,7 +14,9 @@
 	<a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://www.stickermule.com/marketplace/10034-awesome">Sticker</a>
 </p>
-<a href="#top">top</a>
+
+<a href="#top style="text-align: center">top</a>
+
 Fork this project and add your `repository name` + `repository link` + `author` + `original repository link` to [`weFork`](https://github.com/Fork-it/weFork), then make a pull request so will look like this:
 
 <html>
@@ -45,7 +47,7 @@ If you want to join the `Fork-it` ![Fork it Logo](img/fork15px.png) Organization
 ![Fork it Logo](img/fork50px.png)
 
 <html>
-	<div style="text-align: center">
-		<a  href="#top">Top</a>
-	</div>
+	<p align="center">
+	    <a href="#top">Top ⬆️ </a>
+	</p>
 </html>
