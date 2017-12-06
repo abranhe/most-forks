@@ -1,13 +1,25 @@
+<html>
 <!-- Logo -->
+<p id="top"> Toop <p>
 <h1 align="center">
     <img width="300" src="img/fork-it.png" alt="Fork it!"><br><br>
 </h1>
 
-<h1 align="center"> Let's Fork it! 🔁 </h1>	
+<h4 align="center">Let's Fork it!<h4>
 
-<h4 align="center">Contributing<h4>
-
+<p align="center">
+	<a href="awesome.md"><br> 🔁 Contributing</a>&nbsp;&nbsp;&nbsp;
+	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://www.stickermule.com/marketplace/10034-awesome">Sticker</a>
+</p>
+<a href="#top">top</a>
 Fork this project and add your `repository name` + `repository link` + `author` + `original repository link` to [`weFork`](https://github.com/Fork-it/weFork), then make a pull request so will look like this:
+
+<html>
+
+
 
 ```markdown
 | [Atom](https://github.com/fork-it/atom) |[Atom](https://github.com/atom/atom)|
