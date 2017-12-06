@@ -8,13 +8,16 @@
 <h4 align="center">Let's Fork it!<h4>
 
 <p align="center">
+	<br><br>
 	<a href="#contributing">🔁 Contributing</a>&nbsp;&nbsp;&nbsp;
 	<a href="#join"> 🤝  Join</a>&nbsp;&nbsp;&nbsp;
 	<img src="img/fork15px.png" alt="Fork it!">
 	<a href="#repositories">Repositories</a>&nbsp;&nbsp;&nbsp;
+	<br><br>
 </p>
-
-<h4 id="contributing" align="center">🔁 Contributing</h4>
+<br>
+<h4 id="contributing" align="center">Contributing 🔁 </h4>
+<br>
 
 Fork this project and add your `repository name` + `repository link` + `author` + `original repository link` to [`weFork`](https://github.com/Fork-it/weFork), then make a pull request so will look like this:
 
@@ -29,15 +32,15 @@ Fork this project and add your `repository name` + `repository link` + `author` 
 ```
 We will fork your repository with your desired `Repo Name` + your desired `Repo Link`. **Make sure the desired url is not taken by someone else's repository**
 
-
+<br>
 <h4 id="join" align="center">Join 🤝 </h4>
-
+<br>
 
 If you want to join the `Fork-it` ![Fork it Logo](img/fork15px.png) Organization just click on [join](https://github.com/fork-it/join), then follow the instructions, and you will be for sure part of us.
 
-
-<h2 id="repositories" align="center">Repositories</h2>
-
+<br>
+	<h4 id="repositories" align="center">Repositories <img src="img/fork15px.png" alt="Fork it!"></h4>
+<br>
 
 | Repository | Author |Forks|
 | ------ | ----------- | ---- |
@@ -60,6 +63,6 @@ If you want to join the `Fork-it` ![Fork it Logo](img/fork15px.png) Organization
 	    <img src="img/fork50px.png" alt="Fork it">
 	</p>
 	<p align="center">
-	    <small>2017 &copy Fork It </small>
+	    <small>2017 &copy let's Fork It. </small>
 	</p>
 </html>
