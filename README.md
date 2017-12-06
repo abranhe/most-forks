@@ -8,13 +8,13 @@
 <h4 align="center">Let's Fork it!<h4>
 
 <p align="center">
-	<a href="awesome.md"><br> 🔁 Contributing</a>&nbsp;&nbsp;&nbsp;
+	<a href="#contributing">🔁 Contributing</a>&nbsp;&nbsp;&nbsp;
 	<a href="#join"> 🤝  Join</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.stickermule.com/marketplace/10034-awesome">Sticker</a>
+	<img src="img/fork15px.png" alt="Fork it!">
+	<a href="#repositories">Repository</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<a href="#top style="text-align: center">top</a>
+<h4 id="contributing" align="center">🔁 Contributing</h4>
 
 Fork this project and add your `repository name` + `repository link` + `author` + `original repository link` to [`weFork`](https://github.com/Fork-it/weFork), then make a pull request so will look like this:
 
@@ -34,6 +34,10 @@ We will fork your repository with your desired `Repo Name` + your desired `Repo 
 
 
 If you want to join the `Fork-it` ![Fork it Logo](img/fork15px.png) Organization just click on [join](https://github.com/fork-it/join), then follow the instructions, and you will be for sure part of us.
+
+
+<h2 id="repositories" align="center">Repositories</h2>
+
 
 | Repository | Author |Forks|
 | ------ | ----------- | ---- |
