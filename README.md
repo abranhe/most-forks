@@ -62,6 +62,8 @@ If you want to join the `Fork-it` ![Fork it Logo](img/fork15px.png) Organization
 | [Swift 🍎](https://github.com/fork-it/swift)|[Apple](https://github.com/apple/swift)|[![Swift](https://img.shields.io/github/forks/apple/swift.svg?style=social&label=Fork)](https://github.com/apple/swift/fork)|
 | [Angular 🅰️](https://github.com/fork-it/Angular)|[Angular](https://github.com/Angular/Angular)|[![Angular](https://img.shields.io/github/forks/Angular/Angular.svg?style=social&label=Fork)](https://github.com/Angular/Angular/fork)|
 | [Node ✅](https://github.com/fork-it/Node)|[Node](https://github.com/Nodejs/Node)|[![Node](https://img.shields.io/github/forks/Nodejs/Node.svg?style=social&label=Fork)](https://github.com/Nodejs/Node/fork)|
+| [Electron 🌀](https://github.com/fork-it/Electron)|[Electron](https://github.com/Electron/Electron)|[![Electron](https://img.shields.io/github/forks/Electron/Electron.svg?style=social&label=Fork)](https://github.com/Electron/Electron/fork)|
+
 
 
 <html>
