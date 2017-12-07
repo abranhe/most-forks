@@ -13,7 +13,7 @@
 	<img src="assets/fork/fork15px.png" alt="Fork it!">
 	<a href="README.md/#repositories">Repositories</a>&nbsp;&nbsp;&nbsp;
 	<img src="assets/fork/gitter15px.png" alt="Gitter">
-	<a href="https://gitter.im/Fork-it/Lobby"> Chat </a>&nbsp;&nbsp;&nbsp;
+	<a href="https://gitter.im/Fork-it/Lobby"> Gitter </a>&nbsp;&nbsp;&nbsp;
 	<br><br>
 </p>
 
