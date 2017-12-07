@@ -23,6 +23,11 @@
 	<br>
 </p>
 
+- [Get Emoji 😋 ](https://getemoji.com/)
+- [Icones 8 ![Icones8 Logo](https://png.icons8.com/color/24/icons8-logo.png)](https://icons8.com)
+- [Google Translate ![Google Translate Logo](https://png.icons8.com/color/24/google-translate.png)](https://icons8.com)
+
+
 
 
 <html>
