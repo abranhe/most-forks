@@ -23,10 +23,14 @@
 	<br>
 </p>
 
-- [Get Emoji 😋 ](https://getemoji.com/)
-- [Icones 8 ![Icones8 Logo](assets/icones/icones8.png)](https://icons8.com)
-- [Google Translate ![Google Translate Logo](assets/icones/translate.png)](https://translate.google.com)
-- [Cloud App ![Cloud App Logo](assets/icones/cloudApp.png)](https://www.getcloudapp.com/)
+- [Get Emoji](https://getemoji.com/)
+  - 😋 
+- [Icones 8](https://icons8.com)
+  - ![Icones8 Logo](assets/icones/icones8.png)
+- [Google Translate](https://translate.google.com)
+  - ![Google Translate Logo](assets/icones/translate.png)
+- [Cloud App ](https://www.getcloudapp.com/)
+  - ![Cloud App Logo](assets/icones/cloudApp.png)
 
 
 
