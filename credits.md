@@ -31,6 +31,8 @@
   - ![Google Translate Logo](assets/icones/translate.png)
 - [Cloud App ](https://www.getcloudapp.com/)
   - ![Cloud App Logo](assets/icones/cloudApp.png)
+- [Shields.io](http://shields.io/)
+  -![Shields.io Logo](assets/icones/shields.png)
 
 
 
