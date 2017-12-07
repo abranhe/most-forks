@@ -75,7 +75,7 @@ If you want to join the `Fork-it` ![Fork it Logo](img/fork15px.png) Organization
 
 | Repository | Author |Forks|
 | ------ | ----------- | ---- |
-| [weFork](https://github.com/fork-it/weFork) |[weFork](https://github.com/fork-it/weFork)| [![weFork](https://img.shields.io/github/forks/fork-it/weFork.svg?style=social&label=Fork)](https://github.com/fork-it/weFork/fork)|
+| [weFork 🔁 ](https://github.com/fork-it/weFork) |[Fork-it](https://github.com/fork-it/weFork)| [![weFork](https://img.shields.io/github/forks/fork-it/weFork.svg?style=social&label=Fork)](https://github.com/fork-it/weFork/fork)|
 | [Atom :atom:](https://github.com/fork-it/atom) |[Atom](https://github.com/atom/atom)| [![Atom](https://img.shields.io/github/forks/atom/atom.svg?style=social&label=Fork)](https://github.com/atom/atom/fork)|
 | [Awesome 😎 ](https://github.com/fork-it/awesome) |[Sindresorhus](https://github.com/sindresorhus/awesome)|[![Awesome](https://img.shields.io/github/forks/sindresorhus/awesome.svg?style=social&label=Fork)](https://github.com/sindresorhus/awesome/fork)|
 | [Bootstrap ♌️](https://github.com/fork-it/bootstrap)|[Twbs](https://github.com/twbs/bootstrap)|[![Bootstrap](https://img.shields.io/github/forks/twbs/bootstrap.svg?style=social&label=Fork)](https://github.com/twbs/bootstrap/fork)|
@@ -87,7 +87,7 @@ If you want to join the `Fork-it` ![Fork it Logo](img/fork15px.png) Organization
 | [Emoji Cheat Sheet](https://github.com/fork-it/emoji-cheat-sheet.com)|[WebpageFX](https://github.com/WebpageFX/emoji-cheat-sheet.com)|[![Emoji Cheat Sheet](https://img.shields.io/github/forks/WebpageFX/emoji-cheat-sheet.com.svg?style=social&label=Fork)](https://github.com/WebpageFX/emoji-cheat-sheet.com/fork)|
 | [Swift 🍎](https://github.com/fork-it/swift)|[Apple](https://github.com/apple/swift)|[![Swift](https://img.shields.io/github/forks/apple/swift.svg?style=social&label=Fork)](https://github.com/apple/swift/fork)|
 | [Angular 🅰️](https://github.com/fork-it/Angular)|[Angular](https://github.com/Angular/Angular)|[![Angular](https://img.shields.io/github/forks/Angular/Angular.svg?style=social&label=Fork)](https://github.com/Angular/Angular/fork)|
-| [Node ✅](https://github.com/fork-it/Node)|[Node](https://github.com/Nodejs/Node)|[![Node](https://img.shields.io/github/forks/Nodejs/Node.svg?style=social&label=Fork)](https://github.com/Nodejs/Node/fork)|
+| [Node ✅](https://github.com/fork-it/Node)|[Nodejs](https://github.com/Nodejs/Node)|[![Node](https://img.shields.io/github/forks/Nodejs/Node.svg?style=social&label=Fork)](https://github.com/Nodejs/Node/fork)|
 | [Electron 🌀](https://github.com/fork-it/Electron)|[Electron](https://github.com/Electron/Electron)|[![Electron](https://img.shields.io/github/forks/Electron/Electron.svg?style=social&label=Fork)](https://github.com/Electron/Electron/fork)|
 
 
