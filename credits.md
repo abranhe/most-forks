@@ -24,8 +24,8 @@
 </p>
 
 - [Get Emoji 😋 ](https://getemoji.com/)
-- [Icones 8 ![Icones8 Logo](img/icones/icones8.png)](https://icons8.com)
-- [Google Translate ![Google Translate Logo](img/icones/translate.png)](https://icons8.com)
+- [Icones 8 ![Icones8 Logo](assets/icones/icones8.png)](https://icons8.com)
+- [Google Translate ![Google Translate Logo](assets/icones/translate.png)](https://icons8.com)
 
 
 
