@@ -75,6 +75,7 @@ If you want to join the `Fork-it` ![Fork it Logo](img/fork15px.png) Organization
 
 | Repository | Author |Forks|
 | ------ | ----------- | ---- |
+| [weFork](https://github.com/fork-it/weFork) |[weFork](https://github.com/fork-it/weFork)| [![weFork](https://img.shields.io/github/forks/fork-it/weFork.svg?style=social&label=Fork)](https://github.com/fork-it/weFork/fork)|
 | [Atom :atom:](https://github.com/fork-it/atom) |[Atom](https://github.com/atom/atom)| [![Atom](https://img.shields.io/github/forks/atom/atom.svg?style=social&label=Fork)](https://github.com/atom/atom/fork)|
 | [Awesome 😎 ](https://github.com/fork-it/awesome) |[Sindresorhus](https://github.com/sindresorhus/awesome)|[![Awesome](https://img.shields.io/github/forks/sindresorhus/awesome.svg?style=social&label=Fork)](https://github.com/sindresorhus/awesome/fork)|
 | [Bootstrap ♌️](https://github.com/fork-it/bootstrap)|[Twbs](https://github.com/twbs/bootstrap)|[![Bootstrap](https://img.shields.io/github/forks/twbs/bootstrap.svg?style=social&label=Fork)](https://github.com/twbs/bootstrap/fork)|
