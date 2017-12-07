@@ -90,6 +90,7 @@ If you want to join the `Fork-it` ![Fork it Logo](img/fork15px.png) Organization
 | [Node ✅](https://github.com/fork-it/Node)|[Nodejs](https://github.com/Nodejs/Node)|[![Node](https://img.shields.io/github/forks/Nodejs/Node.svg?style=social&label=Fork)](https://github.com/Nodejs/Node/fork)|
 | [Electron 🌀](https://github.com/fork-it/Electron)|[Electron](https://github.com/Electron/Electron)|[![Electron](https://img.shields.io/github/forks/Electron/Electron.svg?style=social&label=Fork)](https://github.com/Electron/Electron/fork)|
 | [Next.js ⚠️](https://github.com/fork-it/Next.js)|[Zeit](https://github.com/zeit/next.js)|[![Next.js](https://img.shields.io/github/forks/zeit/next.js.svg?style=social&label=Fork)](https://github.com/zeit/next.js/fork)|
+| [Hyper ⚡](https://github.com/fork-it/Hyper)|[Zeit](https://github.com/zeit/hyper)|[![hyper](https://img.shields.io/github/forks/zeit/hyper.svg?style=social&label=Fork)](https://github.com/zeit/hyper/fork)|
 
 
 
