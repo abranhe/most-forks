@@ -93,6 +93,7 @@ If you want to join the `Fork-it` ![Fork it Logo](img/fork15px.png) Organization
 | [Hyper ⚡](https://github.com/fork-it/Hyper)|[Zeit](https://github.com/zeit/hyper)|[![hyper](https://img.shields.io/github/forks/zeit/hyper.svg?style=social&label=Fork)](https://github.com/zeit/hyper/fork)|
 | [Jekyll 💉](https://github.com/fork-it/Jekyll)|[Jekyll](https://github.com/Jekyll/Jekyll)|[![Jekyll](https://img.shields.io/github/forks/Jekyll/Jekyll.svg?style=social&label=Fork)](https://github.com/Jekyll/Jekyll/fork)|
 | [Go 🐭](https://github.com/fork-it/go)|[Golang](https://github.com/golang/go)|[![Go](https://img.shields.io/github/forks/golang/go.svg?style=social&label=Fork)](https://github.com/golang/go/fork)|
+| [HTML 🏮](https://github.com/fork-it/html)|[w3c](https://github.com/w3c/html)|[![HTML](https://img.shields.io/github/forks/w3c/html.svg?style=social&label=Fork)](https://github.com/w3c/html/fork)|
 
 
 
