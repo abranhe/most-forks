@@ -14,7 +14,7 @@
 	<a href="#join"> 🤝  Join</a>&nbsp;&nbsp;&nbsp;
 	<img src="img/fork15px.png" alt="Fork it!">
 	<a href="#repositories">Repositories</a>&nbsp;&nbsp;&nbsp;
-	<a href="credits.md"> ⚖&nbspCredits </a>&nbsp;&nbsp;&nbsp;
+	<a href="credits.md"> ⚖ &nbsp Credits </a>&nbsp;&nbsp;&nbsp;
 	<br><br>
 </p>
 
