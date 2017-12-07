@@ -12,14 +12,15 @@
 	<a href="README.md/#join"> 🤝  Join</a>&nbsp;&nbsp;&nbsp;
 	<img src="img/fork15px.png" alt="Fork it!">
 	<a href="README.md/#repositories">Repositories</a>&nbsp;&nbsp;&nbsp;
-	<a href="credits.md"> ⚖ &nbsp Credits </a>&nbsp;&nbsp;&nbsp;
 	<img src="img/gitter15px.png" alt="Gitter">
 	<a href="https://gitter.im/Fork-it/Lobby"> Chat </a>&nbsp;&nbsp;&nbsp;
 	<br><br>
 </p>
 
 <p align="center">
+	<br>
 	<h2 align="center">Credits ⚖ </h2>
+	<br>
 </p>
 
 
