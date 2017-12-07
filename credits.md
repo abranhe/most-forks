@@ -32,7 +32,7 @@
 - [Cloud App ](https://www.getcloudapp.com/)
   - ![Cloud App Logo](assets/icones/cloudApp.png)
 - [Shields.io](http://shields.io/)
-  -![Shields.io Logo](assets/icones/shields.png)
+  - ![Shields.io Logo](assets/icones/shields.png)
 
 
 
