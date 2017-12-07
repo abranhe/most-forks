@@ -77,7 +77,7 @@ If you want to join the `Fork-it` ![Fork it Logo](img/fork15px.png) Organization
 | ------ | ----------- | ---- |
 | [weFork 🔁 ](https://github.com/fork-it/weFork) |[Fork-it](https://github.com/fork-it/weFork)| [![weFork](https://img.shields.io/github/forks/fork-it/weFork.svg?style=social&label=Fork)](https://github.com/fork-it/weFork/fork)|
 | [Atom :atom:](https://github.com/fork-it/atom) |[Atom](https://github.com/atom/atom)| [![Atom](https://img.shields.io/github/forks/atom/atom.svg?style=social&label=Fork)](https://github.com/atom/atom/fork)|
-| [Awesome 😎 ](https://github.com/fork-it/awesome) |[Sindresorhus](https://github.com/sindresorhus/awesome)|[![Awesome](https://img.shields.io/github/forks/sindresorhus/awesome.svg?style=social&label=Fork)](https://github.com/sindresorhus/awesome/fork)|
+| [Awesome 🕶](https://github.com/fork-it/awesome) |[Sindresorhus](https://github.com/sindresorhus/awesome)|[![Awesome](https://img.shields.io/github/forks/sindresorhus/awesome.svg?style=social&label=Fork)](https://github.com/sindresorhus/awesome/fork)|
 | [Bootstrap ♌️](https://github.com/fork-it/bootstrap)|[Twbs](https://github.com/twbs/bootstrap)|[![Bootstrap](https://img.shields.io/github/forks/twbs/bootstrap.svg?style=social&label=Fork)](https://github.com/twbs/bootstrap/fork)|
 | [VS Code 🆚](https://github.com/fork-it/vscode)|[Microsoft](https://github.com/Microsoft/vscode)|[![VS Code](https://img.shields.io/github/forks/Microsoft/vscode.svg?style=social&label=Fork)](https://github.com/Microsoft/vscode/fork)|
 | [Webvrrocks 🎮](https://github.com/fork-it/webbrrocks)|[WebVRRocks](https://github.com/WebVRRocks/webvrrocks)|[![Webvrrocks](https://img.shields.io/github/forks/WebVRRocks/webvrrocks.svg?style=social&label=Fork)](https://github.com/WebVRRocks/webvrrocks)|
@@ -92,6 +92,7 @@ If you want to join the `Fork-it` ![Fork it Logo](img/fork15px.png) Organization
 | [Next.js ⚠️](https://github.com/fork-it/Next.js)|[Zeit](https://github.com/zeit/next.js)|[![Next.js](https://img.shields.io/github/forks/zeit/next.js.svg?style=social&label=Fork)](https://github.com/zeit/next.js/fork)|
 | [Hyper ⚡](https://github.com/fork-it/Hyper)|[Zeit](https://github.com/zeit/hyper)|[![hyper](https://img.shields.io/github/forks/zeit/hyper.svg?style=social&label=Fork)](https://github.com/zeit/hyper/fork)|
 | [Jekyll 💉](https://github.com/fork-it/Jekyll)|[Jekyll](https://github.com/Jekyll/Jekyll)|[![Jekyll](https://img.shields.io/github/forks/Jekyll/Jekyll.svg?style=social&label=Fork)](https://github.com/Jekyll/Jekyll/fork)|
+| [Go 🐭](https://github.com/fork-it/go)|[Golang](https://github.com/golang/go)|[![Go](https://img.shields.io/github/forks/golang/go.svg?style=social&label=Fork)](https://github.com/golang/go/fork)|
 
 
 
