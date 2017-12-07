@@ -1,6 +1,4 @@
 <html>
-
-<p id="top"><p>
 <p align="center">
     <img width="300" src="img/fork-it.png" alt="Fork it!"><br><br>
 </hp>
@@ -20,4 +18,17 @@
 	<br><br>
 </p>
 
----
+<p align="center">
+	<h2 align="center">Credits ⚖ </h2>
+</p>
+
+
+
+<html>
+	<p align="center">
+	    <img src="img/fork50px.png" alt="Fork it">
+	</p>
+	<p align="center">
+	    <small>2017 &copy let's Fork It. </small>
+	</p>
+</html>
