@@ -2,7 +2,7 @@
 
 <p id="top"><p>
 <p align="center">
-    <img width="300" src="img/fork-it.png" alt="Fork it!"><br><br>
+    <img width="300" src="assets/fork/fork-it.png" alt="Fork it!"><br><br>
 </hp>
 
 <h4 align="center">Let's Fork it!<h4>
@@ -70,7 +70,7 @@ We will fork your repository with your desired `Repo Name` + your desired `Repo 
 If you want to join the `Fork-it` ![Fork it Logo](img/fork15px.png) Organization just click on [join](https://github.com/fork-it/join), then follow the instructions, and you will be for sure part of us.
 
 <br>
-	<h4 id="repositories" align="center">Repositories <img src="img/fork15px.png" alt="Fork it!"></h4>
+	<h4 id="repositories" align="center">Repositories <img src="assets/fork/fork15px.png" alt="Fork it!"></h4>
 <br>
 
 | Repository | Author |Forks|
@@ -97,7 +97,7 @@ If you want to join the `Fork-it` ![Fork it Logo](img/fork15px.png) Organization
 	    <a href="#top">Top ⬆️ </a>
 	</p>
 	<p align="center">
-	    <img src="img/fork50px.png" alt="Fork it">
+	    <img src="assets/fork/fork50px.png" alt="Fork it">
 	</p>
 	<p align="center">
 	    <small>2017 &copy let's Fork It. </small>
