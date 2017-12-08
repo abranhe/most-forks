@@ -57,7 +57,8 @@ Then make a pull request so will look like this:
 ```
 where:
 
-`ForkImagen` Must be this Link: `https://img.shields.io/github/forks/USERNAME/REPO.svg?style=social&label=Fork`
+`ForkImagen` must be this Link: `https://img.shields.io/github/forks/USERNAME/REPO.svg?style=social&label=Fork`
+
 
 and change _**USERNAME**_ by your username & _**REPO**_ by your repository URL 
 
