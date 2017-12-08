@@ -111,7 +111,7 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
 | [Data Sharing 🛫 *1](https://github.com/fork-it/datasharing)|[Jtleek](https://github.com/jtleek/datasharing)|[![Datasharing](https://img.shields.io/github/forks/jtleek/datasharing.svg?style=social&label=Fork)](https://github.com/jtleek/datasharing/fork)|
 | [Programming Assignment2🗼 *2](https://github.com/fork-it/programmingassignment2)|[Rdpeng](https://github.com/rdpeng/ProgrammingAssignment2)|[![ProgrammingAssignment2](https://img.shields.io/github/forks/rdpeng/ProgrammingAssignment2.svg?style=social&label=Fork)](https://github.com/rdpeng/ProgrammingAssignment2/fork)|
  | [Spoon-Knife 🥄 *3](https://github.com/fork-it/Spoon-Knife)|[Octacat](https://github.com/octocat/Spoon-Knife)|[![Spoon-Knife](https://img.shields.io/github/forks/octocat/Spoon-Knife.svg?style=social&label=Fork)](https://github.com/octocat/Spoon-Knife/fork)|
- | [ExData Plotting1](https://github.com/fork-it/ExData_Plotting1)|[Rdpeng](https://github.com/rdpeng/ExData_Plotting1e)|[![ExData Plotting1 🎈](https://img.shields.io/github/forks/rdpeng/ExData_Plotting1.svg?style=social&label=Fork)](https://github.com/rdpeng/ExData_Plotting1/fork)|
+ | [ExData Plotting1](https://github.com/fork-it/ExData_Plotting1)|[Rdpeng](https://github.com/rdpeng/ExData_Plotting1e)|[![ExData Plotting1👏🏻  ](https://img.shields.io/github/forks/rdpeng/ExData_Plotting1.svg?style=social&label=Fork)](https://github.com/rdpeng/ExData_Plotting1/fork)|
  
  
 - ***1**- Top 1 Github Repository with more Forks
