@@ -45,7 +45,7 @@
 <br>
 <html>
 	
-Fork this project and add your `repository name` + `repository link` + `author` + `original repository link` to [`weFork`](https://github.com/Fork-it/weFork), then make a pull request so will look like this:
+Fork this project ![Fork weFork](https://img.shields.io/github/forks/fork-it/weFork.svg?&label=Fork) and add your `repository name` + `repository link` + `author` + `original repository link` to [`weFork`](https://github.com/Fork-it/weFork), then make a pull request so will look like this:
 
 <br>
 
