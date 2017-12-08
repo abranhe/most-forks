@@ -106,6 +106,8 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
 | [Git ![Git](assets/icones/git.png)](https://github.com/fork-it/git)|[Git](https://github.com/git/git)|[![Git](https://img.shields.io/github/forks/git/git.svg?style=social&label=Fork)](https://github.com/git/git/fork)|
 | [Font Awesome 🏴](https://github.com/fork-it/Font-Awesome)|[FortAwesome](https://github.com/FortAwesome/Font-Awesome)|[![Font-Awesome](https://img.shields.io/github/forks/FortAwesome/Font-Awesome.svg?style=social&label=Fork)](https://github.com/FortAwesome/Font-Awesome/fork)|
 | [Github Desktop ![Desktop](assets/icones/github-desktop.png)](https://github.com/fork-it/Desktop)|[Desktop](https://github.com/Desktop/Desktop)|[![Desktop](https://img.shields.io/github/forks/Desktop/Desktop.svg?style=social&label=Fork)](https://github.com/Desktop/Desktop/fork)|
+| [Amazon CLI ![Amazon](assets/icones/amazon.png)](https://github.com/fork-it/aws-cli)|[Desktop](https://github.com/aws/aws-cli)|[![aws-cli](https://img.shields.io/github/forks/aws/aws-cli.svg?style=social&label=Fork)](https://github.com/Desktop/Desktop/fork)|
+
 <html>
 	<p align="center">
 	    <a href="#top">Top ⬆️ </a>
