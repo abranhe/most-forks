@@ -60,7 +60,11 @@ where:
 `ForkImagen` must be this Link: `https://img.shields.io/github/forks/USERNAME/REPO.svg?style=social&label=Fork`
 
 
-and change _**USERNAME**_ by your username & _**REPO**_ by your repository URL 
+and change _**USERNAME**_ by your username & _**REPO**_ by your repository URL . This will generate an imagen like this
+
+[![Fork weFork](https://img.shields.io/github/forks/fork-it/weFork.svg?style=social&label=Fork)](https://github.com/fork-it/weFork/fork) 
+
+
 
 ### COLUMN 1
 
