@@ -95,7 +95,7 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
 | [Go 🐭](https://github.com/fork-it/go)|[Golang](https://github.com/golang/go)|[![Go](https://img.shields.io/github/forks/golang/go.svg?style=social&label=Fork)](https://github.com/golang/go/fork)|
 | [HTML 🏮](https://github.com/fork-it/html)|[w3c](https://github.com/w3c/html)|[![HTML](https://img.shields.io/github/forks/w3c/html.svg?style=social&label=Fork)](https://github.com/w3c/html/fork)|
 | [Animate.css 🍿](https://github.com/fork-it/Animate.css)|[Daneden](https://github.com/daneden/animate.css)|[![Animate.css](https://img.shields.io/github/forks/daneden/animate.css.svg?style=social&label=Fork)](https://github.com/daneden/animate.css/fork)|
-
+| [Free Programming Books 📚](https://github.com/fork-it/free-programming-books)|[EbookFoundation](https://github.com/EbookFoundation/free-programming-books)|[![Animate.css](https://img.shields.io/github/forks/EbookFoundation/free-programming-books.svg?style=social&label=Fork)](https://github.com/EbookFoundation/free-programming-books/fork)|
 
 <html>
 	<p align="center">
