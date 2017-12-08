@@ -114,7 +114,7 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
  | [ExData Plotting1 🏒](https://github.com/fork-it/ExData_Plotting1)|[Rdpeng](https://github.com/rdpeng/ExData_Plotting1)|[![ExData Plotting1](https://img.shields.io/github/forks/rdpeng/ExData_Plotting1.svg?style=social&label=Fork)](https://github.com/rdpeng/ExData_Plotting1/fork)|
  | [Socket.io ![Socket.io](assets/icones/socket-io.png)](https://github.com/fork-it/socket.io)|[Socket](https://github.com/socketio/socket.io)|[![socket.io](https://img.shields.io/github/forks/socketio/socket.io.svg?style=social&label=Fork)](https://github.com/socketio/socket.io/fork)|
   | [React ⚛️](https://github.com/fork-it/react)|[Facebook](https://github.com/facebook/react)|[![React](https://img.shields.io/github/forks/facebook/react.svg?style=social&label=Fork)](https://github.com/facebook/react/fork)|
-  | [Pxt ![Pxt](assets/icones/pxt.png](https://github.com/fork-it/Pxt)|[Microsoft](https://github.com/Microsoft/pxt)|[![Pxt](https://img.shields.io/github/forks/Microsoft/pxt.svg?style=social&label=Fork)](https://github.com/Microsoft/pxt/fork)|
+  | [Pxt ![Pxt](assets/icones/pxt.png)](https://github.com/fork-it/Pxt)|[Microsoft](https://github.com/Microsoft/pxt)|[![Pxt](https://img.shields.io/github/forks/Microsoft/pxt.svg?style=social&label=Fork)](https://github.com/Microsoft/pxt/fork)|
  
 
  
