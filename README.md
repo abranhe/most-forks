@@ -103,6 +103,7 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
 | [Free Programming Books 📚](https://github.com/fork-it/free-programming-books)|[EbookFoundation](https://github.com/EbookFoundation/free-programming-books)|[![Free Programming Books](https://img.shields.io/github/forks/EbookFoundation/free-programming-books.svg?style=social&label=Fork)](https://github.com/EbookFoundation/free-programming-books/fork)|
 | [Materialize 🎟](https://github.com/fork-it/Materialize)|[Dogfalo](https://github.com/Dogfalo/materialize)|[![Materialize](https://img.shields.io/github/forks/Dogfalo/materialize.svg?style=social&label=Fork)](https://github.com/Dogfalo/materialize/fork)|
 | [Git ![Git](assets/icones/git.png)](https://github.com/fork-it/git)|[Git](https://github.com/git/git)|[![Git](https://img.shields.io/github/forks/git/git.svg?style=social&label=Fork)](https://github.com/git/git/fork)|
+| [Font Awesome 🏴](https://github.com/fork-it/Font-Awesome)|[FortAwesome](https://github.com/FortAwesome/Font-Awesome)|[![Font-Awesome](https://img.shields.io/github/forks/FortAwesome/Font-Awesome.svg?style=social&label=Fork)](https://github.com/FortAwesome/Font-Awesome/fork)|
 
 <html>
 	<p align="center">
