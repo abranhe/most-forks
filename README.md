@@ -55,7 +55,8 @@ Then make a pull request so will look like this:
 ```markdown
 |[Repo Name](Desired URL)|[Repo Name](Original Repo URL)|![[Repo Name](ForkImagen)](RepoURL/fork)|
 
-|[Repo Name](Desired URL)|[Repo Name](Original Repo URL)|![[Repo Name](https://img.shields.io/github/forks/USERNAME/REPO.svg?style=social&label=Fork)](RepoURL/fork)|
+where:
+Fork Imagen Must be this Link: https://img.shields.io/github/forks/USERNAME/REPO.svg?style=social&label=Fork
 ```
 ### COLUMN 1
 
