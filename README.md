@@ -8,7 +8,7 @@
 <h4 align="center">Let's Fork it!<h4>
 
 
-<p align="center">
+<h4 align="center">
 	<br><br>
 	<a href="#contributing">🔁 Contributing</a>&nbsp;&nbsp;&nbsp;
 	<a href="#join"> 🤝  Join</a>&nbsp;&nbsp;&nbsp;
@@ -18,7 +18,7 @@
 	<img src="assets/fork/gitter15px.png" alt="Gitter">
 	<a href="https://gitter.im/Fork-it/Lobby"> Gitter </a>&nbsp;&nbsp;&nbsp;
 	<br><br>
-</p>
+</h4>
 
 ---
 ## Share on
