@@ -22,7 +22,22 @@
 
 ---
 ## Share on
-
+<h4 align="center">
+	<br><br>
+	<!-- Twitter -->
+	<img src="assets/icones/twitter.png" alt="Twitter">
+	<a href="https://twitter.com/intent/tweet?text=Get%20your%20repository%20forked%20at%20https://github.com/fork-it/weFork">Twitter</a>&nbsp;&nbsp;&nbsp;
+	<!-- Facebook -->
+	img src="assets/icones/facebook.png" alt="Facebook">
+	<a href="https://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=https://github.com/fork-it/weFork"> Facebook</a>&nbsp;&nbsp;&nbsp;
+	<!-- Google Plus -->
+	img src="assets/icones/google-plus.png" alt="Google Plus">
+	<a href="https://plus.google.com/share?url=https://github.com/fork-it/weFork">Google Plus</a>&nbsp;&nbsp;&nbsp;
+	<!-- Linkedin -->
+	img src="assets/icones/linkedin.png" alt="Linkedin">
+	<a href="https://www.linkedin.com/sharing/share-offsite?mini=true&url=https://github.com/fork-it/weFork&title=Get%20your%20repository%20forked&summary=&source="> Linkedin </a>&nbsp;&nbsp;&nbsp;
+	<br><br>
+</h4>
 [ ![Twitter](assets/icones/twitter.png) Twitter](https://twitter.com/intent/tweet?text=Get%20your%20repository%20forked%20at%20https://github.com/fork-it/weFork)
 [ ![Faacebook](assets/icones/facebook.png) Facebook](https://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=https://github.com/fork-it/weFork)
 [ ![Google Plus](assets/icones/google-plus.png) Google](https://plus.google.com/share?url=https://github.com/fork-it/weFork)
