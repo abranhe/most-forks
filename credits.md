@@ -37,7 +37,8 @@
   - ![Markdown Logo](assets/icones/markdown.png)
 - [Adobe Illustrator](https://www.adobe.com/illustrator)
   - ![Adobe Illustrator Logo](assets/icones/adobe-illustrator.png)
-
+- [Adobe Photoshop](https://www.adobe.com/photoshop)
+  - ![Adobe Photoshop Logo](assets/icones/adobe-photoshop.png)
 
 <html>
 	<p align="center">
