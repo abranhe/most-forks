@@ -53,6 +53,7 @@ Then make a pull request so will look like this:
 
 ```markdown
 | Repository | Author |Forks|
+| -------- | ------- | ---- |
 |[Repo Name](Desired URL)|[Repo Name](Original Repo URL)|![[Repo Name](ForkImagen)](RepoURL/fork)|
 
 |[Repo Name](Desired URL)|[Repo Name](Original Repo URL)|![[Repo Name](https://img.shields.io/github/forks/USERNAME/REPO.svg?style=social&label=Fork)](RepoURL/fork)|
