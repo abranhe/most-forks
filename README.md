@@ -102,7 +102,7 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
 | [Animate.css 🍿](https://github.com/fork-it/Animate.css)|[Daneden](https://github.com/daneden/animate.css)|[![Animate.css](https://img.shields.io/github/forks/daneden/animate.css.svg?style=social&label=Fork)](https://github.com/daneden/animate.css/fork)|
 | [Free Programming Books 📚](https://github.com/fork-it/free-programming-books)|[EbookFoundation](https://github.com/EbookFoundation/free-programming-books)|[![Free Programming Books](https://img.shields.io/github/forks/EbookFoundation/free-programming-books.svg?style=social&label=Fork)](https://github.com/EbookFoundation/free-programming-books/fork)|
 | [Materialize 🎟](https://github.com/fork-it/Materialize)|[Dogfalo](https://github.com/Dogfalo/materialize)|[![Materialize](https://img.shields.io/github/forks/Dogfalo/materialize.svg?style=social&label=Fork)](https://github.com/Dogfalo/materialize/fork)|
-
+| [Git ![Git](assets/icones/git.png)](https://github.com/fork-it/git)|[Git](https://github.com/git/git)|[![Git](https://img.shields.io/github/forks/git/git.svg?style=social&label=Fork)](https://github.com/git/git/fork)|
 
 <html>
 	<p align="center">
