@@ -101,7 +101,7 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
 | [HTML 🏮](https://github.com/fork-it/html)|[w3c](https://github.com/w3c/html)|[![HTML](https://img.shields.io/github/forks/w3c/html.svg?style=social&label=Fork)](https://github.com/w3c/html/fork)|
 | [Animate.css 🍿](https://github.com/fork-it/Animate.css)|[Daneden](https://github.com/daneden/animate.css)|[![Animate.css](https://img.shields.io/github/forks/daneden/animate.css.svg?style=social&label=Fork)](https://github.com/daneden/animate.css/fork)|
 | [Free Programming Books 📚](https://github.com/fork-it/free-programming-books)|[EbookFoundation](https://github.com/EbookFoundation/free-programming-books)|[![Free Programming Books](https://img.shields.io/github/forks/EbookFoundation/free-programming-books.svg?style=social&label=Fork)](https://github.com/EbookFoundation/free-programming-books/fork)|
-| [Materialize](https://github.com/fork-it/Materialize)|[Dogfalo](https://github.com/Dogfalo/materialize)|[![Materialize](https://img.shields.io/github/forks/Dogfalo/materialize.svg?style=social&label=Fork)](https://github.com/Dogfalo/materialize/fork)|
+| [Materialize 🎟](https://github.com/fork-it/Materialize)|[Dogfalo](https://github.com/Dogfalo/materialize)|[![Materialize](https://img.shields.io/github/forks/Dogfalo/materialize.svg?style=social&label=Fork)](https://github.com/Dogfalo/materialize/fork)|
 
 
 <html>
