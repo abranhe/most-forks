@@ -21,11 +21,12 @@
 </p>
 
 ---
+<h4 align="center">Share</h4>
 
-[ ![Twitter](assets/icones/twitter.png) Share on Twitter](https://twitter.com/intent/tweet?text=Get%20your%20repository%20forked%20at%20https://github.com/fork-it/weFork)
-[Share on Facebook](https://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=https://github.com/fork-it/weFork)
-[Share on Google](https://plus.google.com/share?url=https://github.com/fork-it/weFork)
-[Share on Linkedin](https://www.linkedin.com/sharing/share-offsite?mini=true&url=https://github.com/fork-it/weFork&title=Get%20your%20repository%20forked&summary=&source=)
+[ ![Twitter](assets/icones/twitter.png) Twitter](https://twitter.com/intent/tweet?text=Get%20your%20repository%20forked%20at%20https://github.com/fork-it/weFork)
+[ Facebook](https://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=https://github.com/fork-it/weFork)
+[ Google](https://plus.google.com/share?url=https://github.com/fork-it/weFork)
+[ Linkedin](https://www.linkedin.com/sharing/share-offsite?mini=true&url=https://github.com/fork-it/weFork&title=Get%20your%20repository%20forked&summary=&source=)
 ---
 <br>
 <h4 id="contributing" align="center">Contributing 🔁 </h4>
