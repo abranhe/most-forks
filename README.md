@@ -14,9 +14,10 @@
 	<a href="#join"> 🤝  Join</a>&nbsp;&nbsp;&nbsp;
 	<img src="assets/fork/fork15px.png" alt="Fork it!">
 	<a href="#repositories">Repositories</a>&nbsp;&nbsp;&nbsp;
-	<a href="credits.md"> ⚖ &nbsp Credits </a>&nbsp;&nbsp;&nbsp;
+	<a href="credits.md">📋 Credits </a>&nbsp;&nbsp;&nbsp;
 	<img src="assets/fork/gitter15px.png" alt="Gitter">
 	<a href="https://gitter.im/Fork-it/Lobby"> Gitter </a>&nbsp;&nbsp;&nbsp;
+	<a href="LICENSE"> ⚖ License</a>&nbsp;&nbsp;&nbsp;
 	<br><br>
 </h4>
 
