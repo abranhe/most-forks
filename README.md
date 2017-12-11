@@ -145,9 +145,9 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
  | 49 | [TwitterOauth 💨 ](https://github.com/fork-it/twitteroauth)|[Abraham](https://github.com/abraham/twitteroauth)|[![twitteroauth](https://img.shields.io/github/forks/abraham/twitteroauth.svg?style=social&label=Fork)](https://github.com/abraham/twitteroauth/fork)|
 
  
-- ***1**- Top 1 Github Repository with more Forks
-- ***2**- Top 2 Github Repository with more Forks
-- ***3**- Top 3 Github Repository with more Forks
+- ***1**- Top 1 Github Repository with more Forks.
+- ***2**- Top 2 Github Repository with more Forks.
+- ***3**- Top 3 Github Repository with more Forks.
 
 <html>
 	<p align="center">
