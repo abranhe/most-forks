@@ -151,8 +151,9 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
 | 54 | [SmartThingsPublic ![SmartThingsPublic](assets/icones/stp.png)](https://github.com/fork-it/SmartThingsPublic)|[SmartThingsCommunity](https://github.com/tensorflow/tensorflow)|[![SmartThingsPublic](https://img.shields.io/github/forks/SmartThingsCommunity/SmartThingsPublic.svg?style=social&label=Fork)](https://github.com/SmartThingsCommunity/SmartThingsPublic/fork)|
 | 55 | [Angular.js 🅰️](https://github.com/fork-it/Angular.js)|[Angular](https://github.com/Angular/Angular.js)|[![Angular.js](https://img.shields.io/github/forks/Angular/Angular.js.svg?style=social&label=Fork)](https://github.com/Angular/Angular.js/fork)|
 | 56 | [Gitignore 👾](https://github.com/fork-it/Gitignore)|[Github](https://github.com/Github/Gitignore)|[![Gitignore](https://img.shields.io/github/forks/Github/Gitignore.svg?style=social&label=Fork)](https://github.com/Github/Gitignore/fork)|
+ | 56 | [Linux ](https://github.com/fork-it/Linux)|[Torvalds](https://github.com/torvalds/linux)|[![Linux](https://img.shields.io/github/forks/torvalds/linux.svg?style=social&label=Fork)](https://github.com/torvalds/linux/fork)|
  
- 
+
 
 
 - ***1**- Top 1 Github Repository with more Forks.
