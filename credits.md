@@ -39,6 +39,8 @@
   - ![Adobe Illustrator Logo](assets/icones/adobe-illustrator.png)
 - [Adobe Photoshop](https://www.adobe.com/photoshop)
   - ![Adobe Photoshop Logo](assets/icones/adobe-photoshop.png)
+- [OrgManager](https://manager.miguelpiedrafita.com)
+  - ![OrgManager Logo](assets/icones/orgmanager.png)
 
 <html>
 	<p align="center">
