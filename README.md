@@ -110,9 +110,9 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
 	<h4 id="repositories" align="center">Repositories <img src="assets/fork/fork15px.png" alt="Fork it!"></h4>
 <br>
 
-- **`*1` Top 1 Github Repository with more Forks.
-- **`*2*`* Top 2 Github Repository with more Forks.
-- **`*3*`*` Top 3 Github Repository with more Forks.
+- `*1` Top 1 Github Repository with more Forks.
+- `*2` Top 2 Github Repository with more Forks.
+- `*3` Top 3 Github Repository with more Forks.
 
 | No | Repository | Author |Forks|
 | -- | ------ | ----------- | ---- |
