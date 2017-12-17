@@ -164,9 +164,7 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
 | 59 | [Evil 🐽]((https://github.com/fork-it/evil/vapor))|[Emacs-Evil](https://github.com/emacs-evil/evil)|[![Evil ](https://img.shields.io/github/forks/emacs-evil/evil.svg?style=social&label=Fork)](https://github.com/emacs-evil/evil/fork)|
 
 
-- ***1**- Top 1 Github Repository with more Forks.
-- ***2**- Top 2 Github Repository with more Forks.
-- ***3**- Top 3 Github Repository with more Forks.
+
 
 <html>
 	<p align="center">
