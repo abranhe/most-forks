@@ -47,7 +47,7 @@
 <html>
 	
 <p align="center">
-	<a href="https://www.codetriage.com/fork-it/weFork" alt="Code Triangle Code Helper">
+	<a href="https://www.codetriage.com/fork-it/wefork" alt="Code Triangle Code Helper">
 	<img src="https://www.codetriage.com/fork-it/wefork/badges/users.svg" alt="Fork it!">
 	</a>
 	<br>
