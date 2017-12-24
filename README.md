@@ -169,7 +169,7 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
 | 60 | [freeCodeCamp 📗](https://github.com/fork-it/freeCodeCamp)|[freeCodeCamp](https://github.com/freeCodeCamp )|[![freeCodeCamp ](https://img.shields.io/github/forks/freeCodeCamp/freeCodeCamp.svg?style=social&label=Fork)](https://github.com/freeCodeCamp/freeCodeCamp/fork)|
 | 61 | [Learning Area 🦊](https://github.com/fork-it/learning-area)|[MDN](https://github.com/mdn/learning-area)|[![mdm ](https://img.shields.io/github/forks/mdn/learning-area.svg?style=social&label=Fork)](https://github.com/mdn/learning-area/fork)|
 | 62 | [Shields ![Vapor](assets/icones/shields.png)](https://github.com/fork-it/Shields)|[Badges](https://github.com/badges/shields)|[![Shields ](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)](https://github.com/badges/shields/fork)|
-| 63 | [Brew 🍺](https://github.com/fork-it/brew)|Janl](https://github.com/Homebrew/brew)|[![Brew ](https://img.shields.io/github/forks/Homebrew/brew.svg?style=social&label=Fork)](https://github.com/Homebrew/brew/fork)|
+| 63 | [Brew 🍺](https://github.com/fork-it/brew)|[Janl](https://github.com/Homebrew/brew)|[![Brew ](https://img.shields.io/github/forks/Homebrew/brew.svg?style=social&label=Fork)](https://github.com/Homebrew/brew/fork)|
 | 64 | [Mustache.js {](https://github.com/fork-it/mustache.js)|[Howebrew](https://github.com/janl/mustache.js)|[![mustache.js ](https://img.shields.io/github/forks/janl/mustache.js.svg?style=social&label=Fork)](https://github.com/janl/mustache.js/fork)|
 
 <html>
