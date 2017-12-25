@@ -175,7 +175,7 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
 | 66 | [You know JS 🐡](https://github.com/fork-it/You-Dont-Know-JS)|[Getify](https://github.com/getify/You-Dont-Know-JS)|[![You-Dont-Know-JS](https://img.shields.io/github/forks/getify/You-Dont-Know-JS.svg?style=social&label=Fork)](https://github.com/getify/You-Dont-Know-JS/fork)|
 | 67 | [HTML5 Boilerplate ![boilerplate](assets/icones/boilerplate.png)](https://github.com/fork-it/html5-boilerplate)|[H5bp](https://github.com/h5bp/html5-boilerplate)|[![html5-boilerplate](https://img.shields.io/github/forks/h5bp/html5-boilerplate.svg?style=social&label=Fork)](https://github.com/h5bp/html5-boilerplate/fork)|
 | 68 | [Frontend Nanodegree Resume 🍄](https://github.com/fork-it/frontend-nanodegree-resume)|[Udacity](https://github.com/udacity/frontend-nanodegree-resume)|[![Front End Nanodegree Resume](https://img.shields.io/github/forks/udacity/frontend-nanodegree-resume.svg?style=social&label=Fork)](https://github.com/hudacity/frontend-nanodegree-resume/fork)|
-| 68 | [Frontend Nanodegree Resume](https://github.com/fork-it/frontend-nanodegree-resume)|[Udacity](https://github.com/udacity/frontend-nanodegree-resume)|[![Front End Nanodegree Resume](https://img.shields.io/github/forks/udacity/frontend-nanodegree-resume.svg?style=social&label=Fork)](https://github.com/hudacity/frontend-nanodegree-resume/fork)|
+| 69 | [Create Your Own Adventure  🌊](https://github.com/fork-it/create-your-own-adventure)|[Udacity](https://github.com/udacity/create-your-own-adventure)|[![Front End Nanodegree Resume](https://img.shields.io/github/forks/udacity/create-your-own-adventure.svg?style=social&label=Fork)](https://github.com/hudacity/create-your-own-adventure/fork)|
 
 
 
