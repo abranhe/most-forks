@@ -184,6 +184,6 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
 	    <img src="assets/fork/fork50px.png" alt="Fork it">
 	</p>
 	<p align="center">
-	    <small>2017 &copy let's Fork It. </small>
+	    <small>2018 &copy let's Fork It. </small>
 	</p>
 </html>
