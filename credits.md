@@ -41,6 +41,8 @@
   - ![Adobe Photoshop Logo](assets/icones/adobe-photoshop.png)
 - [OrgManager](https://manager.miguelpiedrafita.com)
   - ![OrgManager Logo](assets/icones/orgmanager.png)
+- [Pixlr Editor](https://pixlr.com/editor)
+  - ![Pixlr Logo](assets/icones/pixlr.png)  
 
 <html>
 	<p align="center">
