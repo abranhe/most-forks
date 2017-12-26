@@ -162,7 +162,6 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
 | 54 | [SmartThingsPublic ![SmartThingsPublic](assets/icones/stp.png)](https://github.com/fork-it/SmartThingsPublic)|[SmartThingsCommunity](https://github.com/tensorflow/tensorflow)|[![SmartThingsPublic](https://img.shields.io/github/forks/SmartThingsCommunity/SmartThingsPublic.svg?style=social&label=Fork)](https://github.com/SmartThingsCommunity/SmartThingsPublic/fork)|
 | 55 | [Angular.js 🅰️](https://github.com/fork-it/Angular.js)|[Angular](https://github.com/Angular/Angular.js)|[![Angular.js](https://img.shields.io/github/forks/Angular/Angular.js.svg?style=social&label=Fork)](https://github.com/Angular/Angular.js/fork)|
 | 56 | [Gitignore 👾](https://github.com/fork-it/Gitignore)|[Github](https://github.com/Github/Gitignore)|[![Gitignore](https://img.shields.io/github/forks/Github/Gitignore.svg?style=social&label=Fork)](https://github.com/Github/Gitignore/fork)|
- | 56 | [Linux 🐧](https://github.com/fork-it/Linux)|[Torvalds](https://github.com/torvalds/linux)|[![Linux](https://img.shields.io/github/forks/torvalds/linux.svg?style=social&label=Fork)](https://github.com/torvalds/linux/fork)|
  | 57 | [Codetriage 🔺](https://github.com/fork-it/Codetriage)|[Codetriage](https://github.com/Codetriage/Codetriage)|[![Codetriage ](https://img.shields.io/github/forks/Codetriage/Codetriage.svg?style=social&label=Fork)](https://github.com/Codetriage/Codetriage/fork)|
  | 58 | [Vapor ![Vapor](assets/icones/vapor.png)](https://github.com/fork-it/vapor)|[Vapor](https://github.com/vapor/vapor)|[![Vapor ](https://img.shields.io/github/forks/vapor/vapor.svg?style=social&label=Fork)](https://github.com/emacs-evil/evil/fork)|
 | 59 | [Evil 🐽](https://github.com/fork-it/evil)|[Emacs-Evil](https://github.com/emacs-evil/evil)|[![Evil ](https://img.shields.io/github/forks/emacs-evil/evil.svg?style=social&label=Fork)](https://github.com/emacs-evil/evil/fork)|
@@ -177,7 +176,8 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
 | 68 | [Frontend Nanodegree Resume 🍄](https://github.com/fork-it/frontend-nanodegree-resume)|[Udacity](https://github.com/udacity/frontend-nanodegree-resume)|[![Front End Nanodegree Resume](https://img.shields.io/github/forks/udacity/frontend-nanodegree-resume.svg?style=social&label=Fork)](https://github.com/udacity/frontend-nanodegree-resume/fork)|
 | 69 | [Create Your Own Adventure  🌊](https://github.com/fork-it/create-your-own-adventure)|[Udacity](https://github.com/udacity/create-your-own-adventure)|[![Front End Nanodegree Resume](https://img.shields.io/github/forks/udacity/create-your-own-adventure.svg?style=social&label=Fork)](https://github.com/udacity/create-your-own-adventure/fork)|
 | 70 | [iTerm2 🎬](https://github.com/fork-it/iTerm2)|[Gnachman](https://github.com/gnachman/iTerm2)|[![iTerm2](https://img.shields.io/github/forks/gnachman/iTerm2.svg?style=social&label=Fork)](https://github.com/gnachman/iTerm2/fork)|
-
+| 71 | [Linux 🐧](https://github.com/fork-it/Linux)|[Torvalds](https://github.com/torvalds/linux)|[![Linux](https://img.shields.io/github/forks/torvalds/linux.svg?style=social&label=Fork)](https://github.com/torvalds/linux/fork)|
+| 72 | [OpenSource.Guide 🚦](https://github.com/fork-it/opensource.guide)|[Github](https://github.com/Github/opensource.guide)|[![opensource.guide](https://img.shields.io/github/forks/Github/opensource.guide.svg?style=social&label=Fork)](https://github.com/Github/opensource.guide/fork)|
 
 
 
