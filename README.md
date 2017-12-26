@@ -182,7 +182,10 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
 | 74 | [Bitcoin ![bitcoin](assets/icones/bitcoin.png)](https://github.com/fork-it/bitcoin)|[Bitcoin](https://github.com/bitcoin/bitcoin)|[![bitcoin](https://img.shields.io/github/forks/bitcoin/bitcoin.svg?style=social&label=Fork)](https://github.com/bitcoin/bitcoin/fork)|
 
 
-moby
+## License
+
+To the extent possible under law, [Fork it](https://github.com/fork-it) and [C. Abraham](https://github.com/19cah) has waived all copyright and related or neighboring rights to this work.
+
 <html>
 	<p align="center">
 	    <a href="#top">Top ⬆️ </a>
