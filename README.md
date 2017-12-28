@@ -188,7 +188,7 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
 
 ## License
 
-![LICENSE](assets/icones/mit-license.png)
+[![LICENSE](assets/icones/mit-license.png)](https://github.com/fork-it/weFork/LICENSE)
 
 To the extent possible under law, [Fork it](https://github.com/fork-it) and [C. Abraham](https://github.com/19cah) has waived all copyright and related or neighboring rights to this work.
 
