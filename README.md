@@ -182,6 +182,7 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
 | 74 | [Bitcoin ![bitcoin](assets/icones/bitcoin.png)](https://github.com/fork-it/bitcoin)|[Bitcoin](https://github.com/bitcoin/bitcoin)|[![bitcoin](https://img.shields.io/github/forks/bitcoin/bitcoin.svg?style=social&label=Fork)](https://github.com/bitcoin/bitcoin/fork)|
 | 75 | [Opencv 🌸](https://github.com/fork-it/opencv)|[Opencv](https://github.com/opencv/opencv)|[![opencv](https://img.shields.io/github/forks/opencv/opencv.svg?style=social&label=Fork)](https://github.com/opencv/opencv/fork)|
 | 76 | [BrowserQuest 🚶](https://github.com/fork-it/BrowserQuest)|[Mozilla](https://github.com/mozilla/BrowserQuest)|[![BrowserQuest](https://img.shields.io/github/forks/mozilla/BrowserQuest.svg?style=social&label=Fork)](https://github.com/mozilla/BrowserQuest/fork)|
+| 76 | [Pdf.js 📃](https://github.com/fork-it/pdf.js)|[Mozilla](https://github.com/mozilla/pdf.js)|[![pdf.js](https://img.shields.io/github/forks/mozilla/pdf.js.svg?style=social&label=Fork)](https://github.com/mozilla/pdf.js/fork)|
 
 
 ## License
