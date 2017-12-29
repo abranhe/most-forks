@@ -1,5 +1,4 @@
 
-
 <p id="top"><p>
 <p align="center">
     <img width="300" src="assets/fork/fork-it.png" alt="Fork it!"><br><br>
@@ -112,13 +111,18 @@ We will fork your repository with your desired `Repo Name` + your desired `Repo 
 If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Organization just click on [join](https://github.com/fork-it/join), then follow the instructions, and you will be for sure part of us.
 
 <br>
-	<h4 id="repositories" align="center">Repositories <img src="assets/fork/fork15px.png" alt="Fork it!"></h4>
+<h4 id="repositories" align="center">Repositories <img src="assets/fork/fork15px.png" alt="Fork it!"></h4>
 <br>
 
-- `*1` Top 1 Github Repository with more Forks.
-- `*2` Top 2 Github Repository with more Forks.
-- `*3` Top 3 Github Repository with more Forks.
+<p align="center">
+	♳  Top 1 Github Repository with more Forks.
+</p>
 
+♳  Top 1 Github Repository with more Forks.</h5>
+
+ ♴  Top 2 Github Repository with more Forks.<br>
+ ♵  Top 3 Github Repository with more Forks.<br>
+</h5>
 
 
 | No  | Repository | Author |Forks|
