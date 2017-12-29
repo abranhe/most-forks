@@ -117,9 +117,10 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
 - `*2` Top 2 Github Repository with more Forks.
 - `*3` Top 3 Github Repository with more Forks.
 
-<div class="tables-start"></div>
+{#1}
 
-| id | Repository | Author |Forks|
+
+| No | Repository | Author |Forks|
 | -- | ------ | ----------- | ---- |
 | 1 | [weFork 🔁 ](https://github.com/fork-it/weFork) |[Fork-it](https://github.com/fork-it/weFork)| [![weFork](https://img.shields.io/github/forks/fork-it/weFork.svg?style=social&label=Fork)](https://github.com/fork-it/weFork/fork)|
 | 2 | [Atom :atom:](https://github.com/fork-it/atom) |[Atom](https://github.com/atom/atom)| [![Atom](https://img.shields.io/github/forks/atom/atom.svg?style=social&label=Fork)](https://github.com/atom/atom/fork)|
@@ -190,13 +191,7 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
 | 77 | [Pdf.js 📃](https://github.com/fork-it/pdf.js)|[Mozilla](https://github.com/mozilla/pdf.js)|[![pdf.js](https://img.shields.io/github/forks/mozilla/pdf.js.svg?style=social&label=Fork)](https://github.com/mozilla/pdf.js/fork)|
 | 78 | [Go Ethereum 🥣](https://github.com/fork-it/go-ethereum)|[Ethereum](https://github.com/ethereum/go-ethereum)|[![Go Ethereum](https://img.shields.io/github/forks/ethereum/go-ethereum.svg?style=social&label=Fork)](https://github.com/ethereum/go-ethereum/fork)|
 
-<div class="tables-end"></div>
 
-<script type="text/javascript">
-(function() {
-    $('div.tables-begin').nextUntil('div.tables-end', 'table').addClass('table table-bordered');
-})();
-</script>
 
 ## License
 
