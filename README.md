@@ -212,6 +212,6 @@ To the extent possible under law, [Fork it](https://github.com/fork-it) and [C. 
 	<img src="assets/fork/fork50px.png" alt="Fork it">
 </p>
 <p align="center">
-	<small>2018 &copy weFork. </small>
-	let's Fork It
+	<small>2018 &copy <b>weFork</b>. </small><br>
+	<em>let's Fork It<em>
 </p>
