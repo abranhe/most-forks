@@ -20,20 +20,18 @@
 	
 <h4 align="center">
 	<br><br>
-	<a href="#contributing">🔁 Contributing</a>&nbsp;&nbsp;&nbsp;
-	<a href="#join"> 🤝  Join</a>&nbsp;&nbsp;&nbsp;
-	<img src="assets/fork/fork15px.png" alt="Fork it!">
-	<a href="#repositories">Repositories</a>&nbsp;&nbsp;&nbsp;
-	<a href="credits.md">📋 Credits </a>&nbsp;&nbsp;&nbsp;
-	<img src="assets/fork/gitter15px.png" alt="Gitter">
+	<a href="https://github.com/fork-it/weFork#contributing">🔁 Contributing</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/fork-it/weFork#join"> 🤝  Join</a>&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/fork-it/weForkassets/fork/fork15px.png" alt="Fork it!">
+	<a href="https://github.com/fork-it/weFork#repositories">Repositories</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/fork-it/weForkcredits.md">📋 Credits </a>&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/fork-it/weForkassets/fork/gitter15px.png" alt="Gitter">
 	<a href="https://gitter.im/Fork-it/Lobby"> Gitter </a>&nbsp;&nbsp;&nbsp;
-	<a href="LICENSE"> ⚖ &nbsp;&nbsp;License</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/fork-it/weForkLICENSE"> ⚖ &nbsp;&nbsp;License</a>&nbsp;&nbsp;&nbsp;
 	<br><br>
 </h4>
 
 
-
----
 <h4 align="center">Share on: <h4>
 <h4 align="center">
 	<br><br>
@@ -51,23 +49,6 @@
 	<a href="https://www.linkedin.com/sharing/share-offsite?mini=true&url=https://github.com/fork-it/weFork&title=Get%20your%20repository%20forked&summary=&source="> Linkedin </a>&nbsp;&nbsp;&nbsp;
 	<br><br>
 </h4>
-
----
-<br>
-<h4 id="contributing" align="center">Contributing 🔁 </h4>
-<br>
-<html>
-	
-<p align="center">
-	<a href="https://www.codetriage.com/fork-it/wefork" alt="Code Triangle Code Helper">
-	<img src="https://www.codetriage.com/fork-it/wefork/badges/users.svg" alt="Fork it!">
-	</a>
-	<br>
-</p>
-
-<br><h4 id="join" align="center">Join 🤝 </h4><br>
-
-If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Organization just click on [join](https://github.com/fork-it/join), then follow the instructions, and you will be for sure part of us.
 
 <br><h4 id="repositories" align="center">Repositories <img src="assets/fork/fork15px.png" alt="Fork it!"></h4><br>
 
