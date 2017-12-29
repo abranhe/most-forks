@@ -1,10 +1,4 @@
-
 <p id="top"><p>
-<p align="center">
-    <img width="300" src="assets/fork/fork-it.png" alt="Fork it!"><br><br>
-</hp>
-
-<h4 align="center">Let's Fork it!<h4>
 
 <p align="center">
 <!-- Start of "INCLUDED ON WeFORK BANDGE" -->
@@ -19,8 +13,10 @@
 <!-- SEE BANDGE EXAMPLE @ https://github.com/fork-it/join -->
 <!-- End of "INCLUDED ON WeFORK BANDGE" -->
 </p>
+	
+<p align="center"><img width="300" src="assets/fork/fork-it.png" alt="Fork it!"><br><br>
 
-
+<h4 align="center">Let's Fork it!<h4>
 
 <h4 align="center">
 	<br><br>
