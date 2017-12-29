@@ -1,4 +1,4 @@
-<html>
+
 
 <p id="top"><p>
 <p align="center">
@@ -201,14 +201,12 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
 
 To the extent possible under law, [Fork it](https://github.com/fork-it) and [C. Abraham](https://github.com/19cah) has waived all copyright and related or neighboring rights to this work.
 
-<html>
-	<p align="center">
-	    <a href="#top">Top ⬆️ </a>
-	</p>
-	<p align="center">
-	    <img src="assets/fork/fork50px.png" alt="Fork it">
-	</p>
-	<p align="center">
-	    <small>2018 &copy let's Fork It. </small>
-	</p>
-</html>
+<p align="center">
+	<a href="#top">Top ⬆️ </a>
+</p>
+<p align="center">
+	<img src="assets/fork/fork50px.png" alt="Fork it">
+</p>
+<p align="center">
+	<small>2018 &copy let's Fork It. </small>
+</p>
