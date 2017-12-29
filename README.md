@@ -1,5 +1,9 @@
 <p id="top"><p>
 
+<p align="center"><img width="300" src="assets/fork/fork-it.png" alt="Fork it!"><br><br>
+
+<h4 align="center">Let's Fork it!<h4>
+
 <p align="center">
 <!-- Start of "INCLUDED ON WeFORK BANDGE" -->
 <!-- To add you bandge to your repository, copy the code and paste it on your README file.
@@ -14,10 +18,6 @@
 <!-- End of "INCLUDED ON WeFORK BANDGE" -->
 </p>
 	
-<p align="center"><img width="300" src="assets/fork/fork-it.png" alt="Fork it!"><br><br>
-
-<h4 align="center">Let's Fork it!<h4>
-
 <h4 align="center">
 	<br><br>
 	<a href="#contributing">🔁 Contributing</a>&nbsp;&nbsp;&nbsp;
