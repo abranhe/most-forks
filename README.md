@@ -115,14 +115,10 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
 <br>
 
 <p align="center">
-	♳  Top 1 Github Repository with more Forks.
+	♳  Top 1 Github Repository with more Forks.<br>
+	♴  Top 2 Github Repository with more Forks.<br>
+	♵  Top 3 Github Repository with more Forks.<br>
 </p>
-
-♳  Top 1 Github Repository with more Forks.</h5>
-
- ♴  Top 2 Github Repository with more Forks.<br>
- ♵  Top 3 Github Repository with more Forks.<br>
-</h5>
 
 
 | No  | Repository | Author |Forks|
