@@ -389,7 +389,7 @@
 </tr>
 <tr>
 <td><b id="user-content-54">54</b></td>
-<td><a href="https://github.com/fork-it/jquery">jQuery <img src="/fork-it/weFork/raw/master/assets/icones/jquery.png" alt="jQuery" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/jquery">jQuery <img src="/assets/icones/jquery.png" alt="jQuery" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/jquery/jquery">jQuery</a></td>
 <td><a href="https://github.com/jquery/jquery/fork"><img src="https://camo.githubusercontent.com/e5297907b1a3ff5582b2c04c11dcae32d32cf192/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f6a71756572792f6a71756572792e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="jquery " data-canonical-src="https://img.shields.io/github/forks/jquery/jquery.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -401,7 +401,7 @@
 </tr>
 <tr>
 <td><b id="user-content-56">56</b></td>
-<td><a href="https://github.com/fork-it/html5-boilerplate">HTML5 Boilerplate <img src="/fork-it/weFork/raw/master/assets/icones/boilerplate.png" alt="boilerplate" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/html5-boilerplate">HTML5 Boilerplate <img src="/assets/icones/boilerplate.png" alt="boilerplate" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/h5bp/html5-boilerplate">H5bp</a></td>
 <td><a href="https://github.com/h5bp/html5-boilerplate/fork"><img src="https://camo.githubusercontent.com/d47a55216d294c05446608d4af999fdcab20f36c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f683562702f68746d6c352d626f696c6572706c6174652e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="html5-boilerplate" data-canonical-src="https://img.shields.io/github/forks/h5bp/html5-boilerplate.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -443,13 +443,13 @@
 </tr>
 <tr>
 <td><b id="user-content-63">63</b></td>
-<td><a href="https://github.com/fork-it/moby">Moby <img src="/fork-it/weFork/raw/master/assets/icones/moby.png" alt="Moby" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/moby">Moby <img src="/assets/icones/moby.png" alt="Moby" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/moby/moby">Moby</a></td>
 <td><a href="https://github.com/moby/moby/fork"><img src="https://camo.githubusercontent.com/e29f42bc7c24b1fac070d98f0c7e0c087b9f4988/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f6d6f62792f6d6f62792e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="moby" data-canonical-src="https://img.shields.io/github/forks/moby/moby.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="user-content-64">64</b></td>
-<td><a href="https://github.com/fork-it/bitcoin">Bitcoin <img src="/fork-it/weFork/raw/master/assets/icones/bitcoin.png" alt="bitcoin" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/bitcoin">Bitcoin <img src="/assets/icones/bitcoin.png" alt="bitcoin" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/bitcoin/bitcoin">Bitcoin</a></td>
 <td><a href="https://github.com/bitcoin/bitcoin/fork"><img src="https://camo.githubusercontent.com/c10296bcda6ccaf9e2fa2fb2224f37b96630454b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f626974636f696e2f626974636f696e2e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="bitcoin" data-canonical-src="https://img.shields.io/github/forks/bitcoin/bitcoin.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
