@@ -104,21 +104,17 @@ Repo Name  Repo Original URL
 
 We will fork your repository with your desired `Repo Name` + your desired `Repo Link`. **Make sure the desired url is not taken by someone else's repository**
 
-<br>
-<h4 id="join" align="center">Join 🤝 </h4>
-<br>
+<br><h4 id="join" align="center">Join 🤝 </h4><br>
 
 If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Organization just click on [join](https://github.com/fork-it/join), then follow the instructions, and you will be for sure part of us.
 
-<br>
-<h4 id="repositories" align="center">Repositories <img src="assets/fork/fork15px.png" alt="Fork it!"></h4>
-<br>
+<br><h4 id="repositories" align="center">Repositories <img src="assets/fork/fork15px.png" alt="Fork it!"></h4><br>
 
 <p align="center">
 	♳  Top 1 Github Repository with more Forks.<br>
 	♴  Top 2 Github Repository with more Forks.<br>
 	♵  Top 3 Github Repository with more Forks.<br>
-</p>
+</p><br>
 
 
 | No  | Repository | Author |Forks|
