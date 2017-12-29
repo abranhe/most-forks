@@ -73,121 +73,121 @@
 <td><b id="user-content-1">1</b></td>
 <td><a href="https://github.com/fork-it/weFork">weFork <g-emoji alias="repeat" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f501.png" ios-version="6.0">🔁</g-emoji> </a></td>
 <td><a href="https://github.com/fork-it/weFork">Fork-it</a></td>
-<td><a href="https://github.com/fork-it/weFork/fork"><img src="https://camo.githubusercontent.com/30a7a69196e406ebf2366827f39deb5260d024b3/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f666f726b2d69742f7765466f726b2e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="weFork" data-canonical-src="https://img.shields.io/github/forks/fork-it/weFork.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/weFork/fork"><img src="https://img.shields.io/github/forks/fork-it/weFork.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="user-content-2">2</b></td>
 <td><a href="https://github.com/fork-it/atom">Atom <img class="emoji" title=":atom:" alt=":atom:" src="https://assets-cdn.github.com/images/icons/emoji/atom.png" height="20" width="20" align="absmiddle"></a></td>
 <td><a href="https://github.com/atom/atom">Atom</a></td>
-<td><a href="https://github.com/atom/atom/fork"><img src="https://camo.githubusercontent.com/3ffbe261afaea4ced78179e7d76a675b680069e4/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f61746f6d2f61746f6d2e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="Atom" data-canonical-src="https://img.shields.io/github/forks/atom/atom.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/atom/atom/fork"><img src="https://img.shields.io/github/forks/atom/atom.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="user-content-3">3</b></td>
 <td><a href="https://github.com/fork-it/awesome">Awesome <g-emoji alias="dark_sunglasses" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f576.png" ios-version="9.1">🕶</g-emoji></a></td>
 <td><a href="https://github.com/sindresorhus/awesome">Sindresorhus</a></td>
-<td><a href="https://github.com/sindresorhus/awesome/fork"><img src="https://camo.githubusercontent.com/2665fe5ca52d8bae494f95e17db15ff6d9433323/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f73696e647265736f726875732f617765736f6d652e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="Awesome" data-canonical-src="https://img.shields.io/github/forks/sindresorhus/awesome.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/sindresorhus/awesome/fork"><img src="https://img.shields.io/github/forks/sindresorhus/awesome.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="user-content-4">4</b></td>
 <td><a href="https://github.com/fork-it/bootstrap">Bootstrap <img src="assets/icones/bootstrap.png" alt="Bootstrap" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/twbs/bootstrap">Twbs</a></td>
-<td><a href="https://github.com/twbs/bootstrap/fork"><img src="https://camo.githubusercontent.com/3530fb50822907acc525b7ce323084a8c857ce16/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f747762732f626f6f7473747261702e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="Bootstrap" data-canonical-src="https://img.shields.io/github/forks/twbs/bootstrap.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/twbs/bootstrap/fork"><img src="https://img.shields.io/github/forks/twbs/bootstrap.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="user-content-5">5</b></td>
 <td><a href="https://github.com/fork-it/vscode">VS Code <img src="assets/icones/visual-studio.png" alt="VS Code" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/Microsoft/vscode">Microsoft</a></td>
-<td><a href="https://github.com/Microsoft/vscode/fork"><img src="https://camo.githubusercontent.com/074a4cea2df3e1097192b1e9ebb86ced0633a496/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f4d6963726f736f66742f7673636f64652e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="VS Code" data-canonical-src="https://img.shields.io/github/forks/Microsoft/vscode.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/Microsoft/vscode/fork"><img src="https://img.shields.io/github/forks/Microsoft/vscode.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="user-content-6">6</b></td>
 <td><a href="https://github.com/fork-it/webbrrocks">Webvrrocks <g-emoji alias="video_game" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ae.png" ios-version="6.0">🎮</g-emoji></a></td>
 <td><a href="https://github.com/WebVRRocks/webvrrocks">WebVRRocks</a></td>
-<td><a href="https://github.com/WebVRRocks/webvrrocks"><img src="https://camo.githubusercontent.com/e0031cc9afde26b0ccefcc16f3be325a9d3d5dac/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f5765625652526f636b732f7765627672726f636b732e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="Webvrrocks" data-canonical-src="https://img.shields.io/github/forks/WebVRRocks/webvrrocks.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/WebVRRocks/webvrrocks"><img src="https://img.shields.io/github/forks/WebVRRocks/webvrrocks.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="user-content-7">7</b></td>
 <td><a href="https://github.com/fork-it/react-native">React Native <g-emoji alias="atom_symbol" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/269b.png" ios-version="9.1">⚛️</g-emoji></a></td>
 <td><a href="https://github.com/facebook/react-native">Facebook</a></td>
-<td><a href="https://github.com/facebook/react-native/fork"><img src="https://camo.githubusercontent.com/e93d2fe4979902e850c70fdcdedec813051ad893/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f66616365626f6f6b2f72656163742d6e61746976652e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="React Native" data-canonical-src="https://img.shields.io/github/forks/facebook/react-native.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/facebook/react-native/fork"><img src="https://img.shields.io/github/forks/facebook/react-native.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="user-content-8">8</b></td>
 <td><a href="https://github.com/fork-it/react-native-navigation">Reac Native Navigation</a></td>
 <td><a href="https://github.com/wix/react-native-navigation">Wix</a></td>
-<td><a href="https://github.com/wix/react-native-navigation/fork"><img src="https://camo.githubusercontent.com/eb49850826d7d8ae3f35af6dcc3359fb5167a7da/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f7769782f72656163742d6e61746976652d6e617669676174696f6e2e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="Reac Native Navigation" data-canonical-src="https://img.shields.io/github/forks/wix/react-native-navigation.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/wix/react-native-navigation/fork"><img src="https://img.shields.io/github/forks/wix/react-native-navigation.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="user-content-9">9</b></td>
 <td><a href="https://github.com/fork-it/three.js">Three.js <g-emoji alias="three" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/0033-20e3.png" ios-version="6.0">3️⃣</g-emoji></a></td>
 <td><a href="https://github.com/mrdoob/three.js">Mrdoob</a></td>
-<td><a href="https://github.com/mrdoob/three.js/fork"><img src="https://camo.githubusercontent.com/78522a2fa85e1e76014f5c3b6d23676ab6aa866f/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f6d72646f6f622f74687265652e6a732e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="Three.js" data-canonical-src="https://img.shields.io/github/forks/mrdoob/three.js.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/mrdoob/three.js/fork"><img src="https://img.shields.io/github/forks/mrdoob/three.js.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="user-content-10">10</b></td>
 <td><a href="https://github.com/fork-it/emoji-cheat-sheet.com">Emoji Cheat Sheet</a></td>
 <td><a href="https://github.com/WebpageFX/emoji-cheat-sheet.com">WebpageFX</a></td>
-<td><a href="https://github.com/WebpageFX/emoji-cheat-sheet.com/fork"><img src="https://camo.githubusercontent.com/9f31aa6868c3ec9468aa90b30cd1cfbb9d37c684/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f5765627061676546582f656d6f6a692d63686561742d73686565742e636f6d2e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="Emoji Cheat Sheet" data-canonical-src="https://img.shields.io/github/forks/WebpageFX/emoji-cheat-sheet.com.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/WebpageFX/emoji-cheat-sheet.com/fork"><img src="https://img.shields.io/github/forks/WebpageFX/emoji-cheat-sheet.com.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="user-content-11">11</b></td>
 <td><a href="https://github.com/fork-it/swift">Swift <img src="assets/icones/swift.png" alt="Swift" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/apple/swift">Apple</a></td>
-<td><a href="https://github.com/apple/swift/fork"><img src="https://camo.githubusercontent.com/ce663af9dbf0dea432871b8548ec4061ff39821c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f6170706c652f73776966742e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="Swift" data-canonical-src="https://img.shields.io/github/forks/apple/swift.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/apple/swift/fork"><img src="https://img.shields.io/github/forks/apple/swift.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="user-content-12">12</b></td>
 <td><a href="https://github.com/fork-it/Angular">Angular <g-emoji alias="a" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f170.png" ios-version="6.0">🅰️</g-emoji></a></td>
 <td><a href="https://github.com/Angular/Angular">Angular</a></td>
-<td><a href="https://github.com/Angular/Angular/fork"><img src="https://camo.githubusercontent.com/fbd66c2115e1b1e3e77f1227b74530fe45dc040d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f416e67756c61722f416e67756c61722e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="Angular" data-canonical-src="https://img.shields.io/github/forks/Angular/Angular.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/Angular/Angular/fork"><img src="https://img.shields.io/github/forks/Angular/Angular.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="user-content-13">13</b></td>
 <td><a href="https://github.com/fork-it/Node">Node <img src="assets/icones/nodejs.png" alt="Nodejs" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/Nodejs/Node">Nodejs</a></td>
-<td><a href="https://github.com/Nodejs/Node/fork"><img src="https://camo.githubusercontent.com/2453510546fe331db5d7487d02fe78220192daf2/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f4e6f64656a732f4e6f64652e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="Node" data-canonical-src="https://img.shields.io/github/forks/Nodejs/Node.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/Nodejs/Node/fork"><img src="https://img.shields.io/github/forks/Nodejs/Node.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="user-content-14">14</b></td>
 <td><a href="https://github.com/fork-it/Electron">Electron <img src="assets/icones/electron.png" alt="Electron" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/Electron/Electron">Electron</a></td>
-<td><a href="https://github.com/Electron/Electron/fork"><img src="https://camo.githubusercontent.com/c6917a61d4be0b6827558c05e3e25e2f18f8a192/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f456c656374726f6e2f456c656374726f6e2e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="Electron" data-canonical-src="https://img.shields.io/github/forks/Electron/Electron.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/Electron/Electron/fork"><img src="https://img.shields.io/github/forks/Electron/Electron.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="user-content-15">15</b></td>
 <td><a href="https://github.com/fork-it/Next.js">Next.js <g-emoji alias="warning" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/26a0.png" ios-version="6.0">⚠️</g-emoji></a></td>
 <td><a href="https://github.com/zeit/next.js">Zeit</a></td>
-<td><a href="https://github.com/zeit/next.js/fork"><img src="https://camo.githubusercontent.com/4aeab6fba21e5f7beebd97f8f41917489a66bc0d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f7a6569742f6e6578742e6a732e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="Next.js" data-canonical-src="https://img.shields.io/github/forks/zeit/next.js.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/zeit/next.js/fork"><img src="https://img.shields.io/github/forks/zeit/next.js.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="user-content-16">16</b></td>
 <td><a href="https://github.com/fork-it/Hyper">Hyper <img src="assets/icones/hyper.png" alt="Hyper" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/zeit/hyper">Zeit</a></td>
-<td><a href="https://github.com/zeit/hyper/fork"><img src="https://camo.githubusercontent.com/48d2b332580fc94ba5456b2d79d3deeb4fc4f633/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f7a6569742f68797065722e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="hyper" data-canonical-src="https://img.shields.io/github/forks/zeit/hyper.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/zeit/hyper/fork"><img src="https://img.shields.io/github/forks/zeit/hyper.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="user-content-17">17</b></td>
 <td><a href="https://github.com/fork-it/Jekyll">Jekyll <img src="assets/icones/jekyll.png" alt="Jekyll" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/Jekyll/Jekyll">Jekyll</a></td>
-<td><a href="https://github.com/Jekyll/Jekyll/fork"><img src="https://camo.githubusercontent.com/d0585a4ac036681242829761a50038cd9869980e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f4a656b796c6c2f4a656b796c6c2e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="Jekyll" data-canonical-src="https://img.shields.io/github/forks/Jekyll/Jekyll.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/Jekyll/Jekyll/fork"><img src="https://img.shields.io/github/forks/Jekyll/Jekyll.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="user-content-18">18</b></td>
 <td><a href="https://github.com/fork-it/go">Go <img src="assets/icones/go.png" alt="Go" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/golang/go">Golang</a></td>
-<td><a href="https://github.com/golang/go/fork"><img src="https://camo.githubusercontent.com/6d72d1c8243339b245e84b11e493f12b5cafa3a6/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f676f6c616e672f676f2e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="Go" data-canonical-src="https://img.shields.io/github/forks/golang/go.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/golang/go/fork"><img src="https://img.shields.io/github/forks/golang/go.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="user-content-19">19</b></td>
 <td><a href="https://github.com/fork-it/html">HTML <img src="assets/icones/html5.png" alt="HTML" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/w3c/html">w3c</a></td>
-<td><a href="https://github.com/w3c/html/fork"><img src="https://camo.githubusercontent.com/4f20e9eeb88ff9db4c56f464e5ba8650cc9259e1/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f7733632f68746d6c2e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="HTML" data-canonical-src="https://img.shields.io/github/forks/w3c/html.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/w3c/html/fork"><img src="https://img.shields.io/github/forks/w3c/html.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="user-content-20">20</b></td>
 <td><a href="https://github.com/fork-it/Animate.css">Animate.css <g-emoji alias="popcorn" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f37f.png" ios-version="9.1">🍿</g-emoji></a></td>
 <td><a href="https://github.com/daneden/animate.css">Daneden</a></td>
-<td><a href="https://github.com/daneden/animate.css/fork"><img src="https://camo.githubusercontent.com/4451bba736cc002b0c69b7a8c9d2e60d128baa71/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f64616e6564656e2f616e696d6174652e6373732e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="Animate.css" data-canonical-src="https://img.shields.io/github/forks/daneden/animate.css.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/daneden/animate.css/fork"><img src="https://img.shields.io/github/forks/daneden/animate.css.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="user-content-21">21</b></td>
@@ -269,7 +269,7 @@
 </tr>
 <tr>
 <td><b id="user-content-34">34</b></td>
-<td><a href="https://github.com/fork-it/Pxt">Pxt <img src="/assets/icones/pxt.png" alt="Pxt" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/Pxt">Pxt <img src="assets/icones/pxt.png" alt="Pxt" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/Microsoft/pxt">Microsoft</a></td>
 <td><a href="https://github.com/Microsoft/pxt/fork"><img src="https://camo.githubusercontent.com/f58863a2f19858ade9219e24bd1d7d1e401977f9/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f4d6963726f736f66742f7078742e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="Pxt" data-canonical-src="https://img.shields.io/github/forks/Microsoft/pxt.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -401,7 +401,7 @@
 </tr>
 <tr>
 <td><b id="user-content-56">56</b></td>
-<td><a href="https://github.com/fork-it/html5-boilerplate">HTML5 Boilerplate <img src="/assets/icones/boilerplate.png" alt="boilerplate" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/html5-boilerplate">HTML5 Boilerplate <img src="assets/icones/boilerplate.png" alt="boilerplate" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/h5bp/html5-boilerplate">H5bp</a></td>
 <td><a href="https://github.com/h5bp/html5-boilerplate/fork"><img src="https://camo.githubusercontent.com/d47a55216d294c05446608d4af999fdcab20f36c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f683562702f68746d6c352d626f696c6572706c6174652e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="html5-boilerplate" data-canonical-src="https://img.shields.io/github/forks/h5bp/html5-boilerplate.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
