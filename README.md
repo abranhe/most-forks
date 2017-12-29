@@ -21,6 +21,7 @@
 	<img src="assets/fork/gitter15px.png" alt="Gitter">
 	<a href="https://gitter.im/Fork-it/Lobby"> Gitter </a>&nbsp;&nbsp;&nbsp;
 	<a href="LICENSE"> ⚖ &nbsp;&nbsp;License</a>&nbsp;&nbsp;&nbsp;
+	<a href="#1"> 1 </a>
 	<br><br>
 </h4>
 
@@ -117,7 +118,7 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
 - `*2` Top 2 Github Repository with more Forks.
 - `*3` Top 3 Github Repository with more Forks.
 
-{#1}
+(#1)
 
 
 | No | Repository | Author |Forks|
