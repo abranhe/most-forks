@@ -213,5 +213,5 @@ To the extent possible under law, [Fork it](https://github.com/fork-it) and [C. 
 </p>
 <p align="center">
 	<small>2018 &copy <b>weFork</b>. </small><br>
-	<em>let's Fork It<em>
+	<em>let's Fork It! 🦋<em>
 </p>
