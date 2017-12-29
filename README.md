@@ -22,7 +22,7 @@
 	<br><br>
 	<a href="https://github.com/fork-it/weFork#contributing">🔁 Contributing</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://github.com/fork-it/weFork#join"> 🤝  Join</a>&nbsp;&nbsp;&nbsp;
-	<img src="https://github.com/fork-it/weFork/blob/master/assets/fork/fork15px.png"" alt="Fork it!">
+	<img src="https://github.com/fork-it/weFork/blob/master/assets/fork/fork15px.png" alt="Fork it!">
 	<a href="https://github.com/fork-it/weFork#repositories">Repositories</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://github.com/fork-it/weFork/credits.md">📋 Credits </a>&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/fork-it/weFork/blob/master/assets/fork/gitter15px.png" alt="Gitter">
