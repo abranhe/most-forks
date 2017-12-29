@@ -21,9 +21,10 @@
 	<img src="assets/fork/gitter15px.png" alt="Gitter">
 	<a href="https://gitter.im/Fork-it/Lobby"> Gitter </a>&nbsp;&nbsp;&nbsp;
 	<a href="LICENSE"> ⚖ &nbsp;&nbsp;License</a>&nbsp;&nbsp;&nbsp;
-	<a href="#1"> 1 </a>
 	<br><br>
 </h4>
+
+[link](#1)
 
 ---
 <h4 align="center">Share on: <h4>
