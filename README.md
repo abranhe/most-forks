@@ -20,14 +20,14 @@
 	
 <h4 align="center">
 	<br><br>
-	<a href="https://github.com/fork-it/weFork#contributing">🔁 Contributing</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://github.com/fork-it/weFork#join"> 🤝  Join</a>&nbsp;&nbsp;&nbsp;
-	<img src="https://github.com/fork-it/weFork/blob/master/assets/fork/fork15px.png" alt="Fork it!">
-	<a href="https://github.com/fork-it/weFork#repositories">Repositories</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://github.com/fork-it/weFork/credits.md">📋 Credits </a>&nbsp;&nbsp;&nbsp;
-	<img src="https://github.com/fork-it/weFork/blob/master/assets/fork/gitter15px.png" alt="Gitter">
+	<a href="#contributing">🔁 Contributing</a>&nbsp;&nbsp;&nbsp;
+	<a href="#join"> 🤝  Join</a>&nbsp;&nbsp;&nbsp;
+	<img src="assets/fork/fork15px.png" alt="Fork it!">
+	<a href="#repositories">Repositories</a>&nbsp;&nbsp;&nbsp;
+	<a href="credits.md">📋 Credits </a>&nbsp;&nbsp;&nbsp;
+	<img src="assets/fork/gitter15px.png" alt="Gitter">
 	<a href="https://gitter.im/Fork-it/Lobby"> Gitter </a>&nbsp;&nbsp;&nbsp;
-	<a href="https://github.com/fork-it/weForkLICENSE"> ⚖ &nbsp;&nbsp;License</a>&nbsp;&nbsp;&nbsp;
+	<a href="LICENSE"> ⚖ &nbsp;&nbsp;License</a>&nbsp;&nbsp;&nbsp;
 	<br><br>
 </h4>
 
