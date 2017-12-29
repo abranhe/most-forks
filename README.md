@@ -187,8 +187,7 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
 | <b id="66">66</b> | [BrowserQuest 🚶](https://github.com/fork-it/BrowserQuest)|[Mozilla](https://github.com/mozilla/BrowserQuest)|[![BrowserQuest](https://img.shields.io/github/forks/mozilla/BrowserQuest.svg?style=social&label=Fork)](https://github.com/mozilla/BrowserQuest/fork)|
 | <b id="67">67</b> | [Pdf.js 📃](https://github.com/fork-it/pdf.js)|[Mozilla](https://github.com/mozilla/pdf.js)|[![pdf.js](https://img.shields.io/github/forks/mozilla/pdf.js.svg?style=social&label=Fork)](https://github.com/mozilla/pdf.js/fork)|
 | <b id="68">68</b> | [Go Ethereum 🥣](https://github.com/fork-it/go-ethereum)|[Ethereum](https://github.com/ethereum/go-ethereum)|[![Go Ethereum](https://img.shields.io/github/forks/ethereum/go-ethereum.svg?style=social&label=Fork)](https://github.com/ethereum/go-ethereum/fork)|
-
-
+| <b id="69">69</b> | [CNTK 🔰](https://github.com/fork-it/CNTK)|[Microsoft](https://github.com/Microsoft/CNTK)|[![CNTK](https://img.shields.io/github/forks/Microsoft/CNTK.svg?style=social&label=Fork)](https://github.com/Microsoft/CNTK/fork)|
 
 
 ## License
