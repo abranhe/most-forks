@@ -42,7 +42,10 @@
 - [OrgManager](https://manager.miguelpiedrafita.com)
   - ![OrgManager Logo](assets/icones/orgmanager.png)
 - [Pixlr Editor](https://pixlr.com/editor)
-  - ![Pixlr Logo](assets/icones/pixlr.png)  
+  - ![Pixlr Logo](assets/icones/pixlr.png)
+- [B64](http://b64.io)
+  - ![B64 Logo](http://www.redpik.net/favicon.ico)  
+
 
 <html>
 	<p align="center">
