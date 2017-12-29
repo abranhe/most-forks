@@ -44,7 +44,7 @@
 - [Pixlr Editor](https://pixlr.com/editor)
   - ![Pixlr Logo](assets/icones/pixlr.png)
 - [B64](http://b64.io)
-  - ![B64 Logo](http://www.redpik.net/favicon.ico)  
+  - ![B64 Logo](assets/icones/b64.ico)  
 
 
 <html>
