@@ -490,7 +490,7 @@
 <td><a href="https://github.com/fork-it/Join/fork"><img src="https://camo.githubusercontent.com/893c8e858fe6fee5e646a0788215fe63f41410e9/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f666f726b2d69742f4a6f696e2e7376673f7374796c653d736f6369616c266c6162656c3d466f726b" alt="Join" data-canonical-src="https://img.shields.io/github/forks/fork-it/Join.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr></tbody></table>
 
-<h3 align="center">LICENSE</h3>
+<h3>LICENSE</h3>
 
 <p><a href="https://github.com/fork-it/weFork/blob/master/LICENSE"><img src="https://github.com/fork-it/weFork/blob/master/assets/icones/mit-license.png" alt="LICENSE"></a></p>
 
