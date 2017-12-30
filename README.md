@@ -27,7 +27,7 @@
 	<a href="credits.md">📋 Credits </a>&nbsp;&nbsp;&nbsp;
 	<img src="assets/fork/gitter15px.png" alt="Gitter">
 	<a href="https://gitter.im/Fork-it/Lobby"> Gitter </a>&nbsp;&nbsp;&nbsp;
-	<a href="LICENSE"> ⚖ &nbsp;&nbsp;License</a>&nbsp;&nbsp;&nbsp;
+	<a href="#LICENSE"> ⚖ &nbsp;&nbsp;License</a>&nbsp;&nbsp;&nbsp;
 	<br><br>
 </h4>
 
@@ -490,7 +490,7 @@
 <td><a href="https://github.com/fork-it/Join/fork"><img src="https://img.shields.io/github/forks/fork-it/Join.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr></tbody></table>
 
-<h3>LICENSE</h3>
+<h3 id="LICENSE">LICENSE</h3>
 
 <p><a href="https://github.com/fork-it/weFork/blob/master/LICENSE"><img src="assets/icones/mit-license.png" alt="LICENSE"></a></p>
 
