@@ -20,11 +20,11 @@
 	
 <h4 align="center">
 	<br><br>
-	<a href="https://github.com/fork-it/weFork/blob/master#contributing">🔁 Contributing</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://github.com/fork-it/weFork/blob/master#join"> 🤝  Join</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/fork-it/weFork/blob/master/README.md#contributing">🔁 Contributing</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/fork-it/weFork/blob/master/README.md#join"> 🤝  Join</a>&nbsp;&nbsp;&nbsp;
 	<img src="assets/fork/fork15px.png" alt="Fork it!">
 	<a href="#repositories">Repositories</a>&nbsp;&nbsp;&nbsp;
-	<a href="credits.md">📋 Credits </a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/fork-it/weFork/blob/master/credits.md">📋 Credits </a>&nbsp;&nbsp;&nbsp;
 	<img src="assets/fork/gitter15px.png" alt="Gitter">
 	<a href="https://gitter.im/Fork-it/Lobby"> Gitter </a>&nbsp;&nbsp;&nbsp;
 	<a href="#LICENSE"> ⚖ &nbsp;&nbsp;License</a>&nbsp;&nbsp;&nbsp;
