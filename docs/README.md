@@ -44,14 +44,14 @@
 - [Pixlr Editor](https://pixlr.com/editor)
   - ![Pixlr Logo](/assets/icones/pixlr.png)
 - [B64](http://b64.io)
-  - ![B64 Logo](assets/icones/b64.ico)
+  - ![B64 Logo](/assets/icones/b64.ico)
 - [URL Decoder/Encoder](https://meyerweb.com/eric/tools/dencoder/)
   - ![URL Decoder/Encoder Logo](https://meyerweb.com/favicon.ico)
 
 
 <html>
 	<p align="center">
-	    <img src="assets/fork/fork50px.png" alt="Fork it">
+	    <img src="/assets/fork/fork50px.png" alt="Fork it">
 	</p>
 	<p align="center">
 	    <small>2017 &copy let's Fork It. </small>
