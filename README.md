@@ -20,8 +20,8 @@
 	
 <h4 align="center">
 	<br><br>
-	<a href="#contributing">🔁 Contributing</a>&nbsp;&nbsp;&nbsp;
-	<a href="#join"> 🤝  Join</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/fork-it/weFork/blob/master#contributing">🔁 Contributing</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/fork-it/weFork/blob/master#join"> 🤝  Join</a>&nbsp;&nbsp;&nbsp;
 	<img src="assets/fork/fork15px.png" alt="Fork it!">
 	<a href="#repositories">Repositories</a>&nbsp;&nbsp;&nbsp;
 	<a href="credits.md">📋 Credits </a>&nbsp;&nbsp;&nbsp;
