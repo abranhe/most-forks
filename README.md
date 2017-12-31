@@ -457,7 +457,7 @@
 <td><b id="65">65</b></td>
 <td><a href="https://github.com/fork-it/opencv">Opencv <img src="assets/icones/opencv.png" alt="opencv" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/opencv/opencv">Opencv</a></td>
-<td><a href="https://github.com/opencv/opencv/fork"><img rc="https://img.shields.io/github/forks/opencv/opencv.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/opencv/opencv/fork"><img src="https://img.shields.io/github/forks/opencv/opencv.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="66">66</b></td>
@@ -469,7 +469,7 @@
 <td><b id="67">67</b></td>
 <td><a href="https://github.com/fork-it/pdf.js">Pdf.js <g-emoji alias="page_with_curl" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4c3.png" ios-version="6.0">📃</g-emoji></a></td>
 <td><a href="https://github.com/mozilla/pdf.js">Mozilla</a></td>
-<td><a href="https://github.com/mozilla/pdf.js/fork"><img rc="https://img.shields.io/github/forks/mozilla/pdf.js.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/mozilla/pdf.js/fork"><img src="https://img.shields.io/github/forks/mozilla/pdf.js.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="68">68</b></td>
