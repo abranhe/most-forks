@@ -494,6 +494,7 @@
 <td><a href="https://github.com/fork-it/spark">Spark <img src="assets/icones/spark.png" alt="spark" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/apache/spark">Apache</a></td>
 <td><a href="https://github.com/apache/spark/fork"><img src="https://img.shields.io/github/forks/apache/spark.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<tr>	
 <td><b id="72">72</b></td>
 <td><a href="https://github.com/fork-it/jetty.project">Jetty Project 🧢 </a></td>
 <td><a href="https://github.com/eclipse/jetty.project">Apache</a></td>
@@ -501,7 +502,6 @@
 </tr>
 </tbody></table>
 
-🧢 
 <h3 id="LICENSE">LICENSE</h3>
 
 <p><a href="https://github.com/fork-it/weFork/blob/master/LICENSE"><img src="assets/icones/mit-license.png" alt="LICENSE"></a></p>
