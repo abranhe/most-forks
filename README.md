@@ -56,7 +56,7 @@
 
 <br><h4 id="join" align="center">Join 🤝 </h4><br>
 
-If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Organization just click on [join](https://github.com/fork-it/join), then follow the instructions, and you will be for sure part of us.
+If you want to join the [**Fork-it**](/fork-it) ![Fork it Logo](assets/fork/fork15px.png) Organization just click on [join](https://github.com/fork-it/join), then follow the instructions, and you will be for sure part of us.
 
 <br><h4 id="repositories" align="center">Repositories <img src="assets/fork/fork15px.png" alt="Fork it!"></h4><br>
 
