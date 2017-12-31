@@ -80,4 +80,4 @@ See 🤝 [join](https://github.com/fork-it/join)
 	<!-- End of "INCLUDED ON WeFORK BANDGE" -->
 ```
 
-Bandage covered by [Shields](http://shields.io/).
+Bandages covered by [Shields](http://shields.io/).
