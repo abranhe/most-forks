@@ -53,3 +53,11 @@ Repo Name  Repo Original URL
 <br>
 
 We will fork your repository with your desired `Repo Name` + your desired `Repo Link`. **Make sure the desired url is not taken by someone else's repository**
+
+
+## Easy way 😁
+
+The easiest way to contribute, add your desired repositories to ***weFork*** is by join the **Fork it** organization. You will be able to fork repositories to make it easier.
+
+See 🤝 [join](https://github.com/fork-it/join)
+
