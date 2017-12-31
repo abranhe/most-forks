@@ -113,7 +113,7 @@
 </tr>
 <tr>
 <td><b id="8">8</b></td>
-<td><a href="https://github.com/fork-it/react-native-navigation">Reac Native Navigation</a></td>
+<td><a href="https://github.com/fork-it/react-native-navigation">Reac Native Navigation <img src="assets/icones/react-native-navigation.png" alt="React Native Navigation" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/wix/react-native-navigation">Wix</a></td>
 <td><a href="https://github.com/wix/react-native-navigation/fork"><img src="https://img.shields.io/github/forks/wix/react-native-navigation.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -125,7 +125,7 @@
 </tr>
 <tr>
 <td><b id="10">10</b></td>
-<td><a href="https://github.com/fork-it/emoji-cheat-sheet.com">Emoji Cheat Sheet</a></td>
+<td><a href="https://github.com/fork-it/emoji-cheat-sheet.com">Emoji Cheat Sheet 👍🏻 </a></td>
 <td><a href="https://github.com/WebpageFX/emoji-cheat-sheet.com">WebpageFX</a></td>
 <td><a href="https://github.com/WebpageFX/emoji-cheat-sheet.com/fork"><img src="https://img.shields.io/github/forks/WebpageFX/emoji-cheat-sheet.com.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
