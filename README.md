@@ -201,7 +201,6 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
 | <b id="72">72</b> | [Jetty Project](https://github.com/fork-it/jetty.project) |[Eclipse](https://github.com/eclipse/jetty.project)| [![Spak](https://img.shields.io/github/forks/eclipse/jetty.project.svg?style=social&label=Fork)](https://github.com/eclipse/jetty.project/fork)|
 
 
-
 ## License
 
 [![LICENSE](assets/icones/mit-license.png)](https://github.com/fork-it/weFork/blob/master/LICENSE)
