@@ -26,20 +26,22 @@ Then will generate an image like this [![Fork weFork](https://img.shields.io/git
 
 ### Example:
 
-#### *COLUMN 1*
+ *COLUMN*  **I**
 
 ```md
 | No | [Atom :atom:](https://github.com/fork-it/atom) |
           ⬆️                        ⬆️   
       Repo Name              Repo Desired URL (ex: atom)
  ```
- #### *COLUMN 2*
+ 
+ *COLUMN*  **II**
+ 
  ```md
 [Atom](https://github.com/atom/atom)|
   ⬆️            ⬆️
 Repo Name  Repo Original URL 
 ```
-#### *COLUMN 3*
+*COLUMN*  **III**
 ```md
                                            USERNAME/REPO_NAME
 					        ⬇️
