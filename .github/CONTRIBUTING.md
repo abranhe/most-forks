@@ -1,17 +1,9 @@
-# Contributing
-
+# Contributing  [![Code Triangle Code Helper](https://www.codetriage.com/fork-it/wefork/badges/users.svg)](https://www.codetriage.com/fork-it/wefork)
 <br>
 <h4 id="contributing" align="center">Contributing 🔁 </h4>
 <br>
 <html>
 	
-<p align="center">
-	<a href="https://www.codetriage.com/fork-it/wefork" alt="Code Triangle Code Helper">
-	<img src="https://www.codetriage.com/fork-it/wefork/badges/users.svg" alt="Fork it!">
-	</a>
-	<br>
-</p>
-
 1. Fork this project &nbsp;&nbsp;&nbsp; [![Fork weFork](https://img.shields.io/github/forks/fork-it/weFork.svg?&label=Fork)](https://github.com/fork-it/weFork/fork) 
 2. Add your `repository name` + `repository link` + `author` + `original repository link` to the forked repository.
 
