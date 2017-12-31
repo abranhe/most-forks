@@ -79,3 +79,5 @@ See 🤝 [join](https://github.com/fork-it/join)
 	<!-- SEE BANDGE EXAMPLE @ https://github.com/fork-it/join -->
 	<!-- End of "INCLUDED ON WeFORK BANDGE" -->
 ```
+
+Bandage covered by [Shields](http://shields.io/).
