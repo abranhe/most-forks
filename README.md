@@ -200,7 +200,6 @@ If you want to join the `Fork-it` ![Fork it Logo](assets/fork/fork15px.png) Orga
 | <b id="71">71</b> | [Spark ![spark](assets/icones/spark.png)](https://github.com/fork-it/spark) |[Apache](https://github.com/apache/spark)| [![Spak](https://img.shields.io/github/forks/apache/spark.svg?style=social&label=Fork)](https://github.com/apache/spark/fork)|
 | <b id="72">72</b> | [Jetty Project](https://github.com/fork-it/jetty.project) |[Eclipse](https://github.com/eclipse/jetty.project)| [![Spak](https://img.shields.io/github/forks/eclipse/jetty.project.svg?style=social&label=Fork)](https://github.com/eclipse/jetty.project/fork)|
 
-jetty.project
 
 
 ## License
