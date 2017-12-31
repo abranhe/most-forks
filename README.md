@@ -27,6 +27,8 @@
 	<a href="credits.md">📋 Credits </a>&nbsp;&nbsp;&nbsp;
 	<img src="assets/fork/gitter15px.png" alt="Gitter">
 	<a href="https://gitter.im/Fork-it/Lobby"> Gitter </a>&nbsp;&nbsp;&nbsp;
+	<img src="https://png.icons8.com/ios/24/000000/wikipedia.png" alt="Wiki">
+	<a href="https://github/Fork-it/wiki"> Wiki </a>&nbsp;&nbsp;&nbsp;
 	<a href="LICENSE"> ⚖ &nbsp;&nbsp;License</a>&nbsp;&nbsp;&nbsp;
 	<br><br>
 </h4>
