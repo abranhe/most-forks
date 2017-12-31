@@ -495,13 +495,13 @@
 <td><a href="https://github.com/apache/spark">Apache</a></td>
 <td><a href="https://github.com/apache/spark/fork"><img src="https://img.shields.io/github/forks/apache/spark.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 <td><b id="72">72</b></td>
-<td><a href="https://github.com/fork-it/jetty.project">Spark <img src="assets/icones/spark.png" alt="spark" style="max-width:100%;"></a></td>
-<td><a href="https://github.com/apache/jetty.project">Apache</a></td>
-<td><a href="https://github.com/apache/spark/fork"><img src="https://img.shields.io/github/forks/apache/jetty.project.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/jetty.project">Jetty Project 🧢 </a></td>
+<td><a href="https://github.com/eclipse/jetty.project">Apache</a></td>
+<td><a href="https://github.com/eclipse/jetty.project/fork"><img src="https://img.shields.io/github/forks/eclipse/jetty.project.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 </tbody></table>
 
-eclipse/jetty.project
+🧢 
 <h3 id="LICENSE">LICENSE</h3>
 
 <p><a href="https://github.com/fork-it/weFork/blob/master/LICENSE"><img src="assets/icones/mit-license.png" alt="LICENSE"></a></p>
