@@ -125,7 +125,7 @@
 </tr>
 <tr>
 <td><b id="10">10</b></td>
-<td><a href="https://github.com/fork-it/emoji-cheat-sheet.com">Emoji Cheat Sheet 👍🏻 </a></td>
+<td><a href="https://github.com/fork-it/emoji-cheat-sheet.com">Emoji Cheat Sheet <g-emoji alias="+1" class="emoji" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f44d.png" ios-version="6.0">👍</g-emoji></a></td>
 <td><a href="https://github.com/WebpageFX/emoji-cheat-sheet.com">WebpageFX</a></td>
 <td><a href="https://github.com/WebpageFX/emoji-cheat-sheet.com/fork"><img src="https://img.shields.io/github/forks/WebpageFX/emoji-cheat-sheet.com.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -455,7 +455,7 @@
 </tr>
 <tr>
 <td><b id="65">65</b></td>
-<td><a href="https://github.com/fork-it/opencv">Opencv <g-emoji alias="cherry_blossom" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f338.png" ios-version="6.0">🌸</g-emoji></a></td>
+<td><a href="https://github.com/fork-it/opencv">Opencv <img src="assets/icones/opencv.png" alt="opencv" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/opencv/opencv">Opencv</a></td>
 <td><a href="https://github.com/opencv/opencv/fork"><img rc="https://img.shields.io/github/forks/opencv/opencv.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
