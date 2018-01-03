@@ -154,7 +154,7 @@ If you want to join the [**Fork-it**](https://github.com/fork-it) ![Fork it Logo
 
 [![LICENSE](assets/icones/mit-license.png)](https://github.com/fork-it/weFork/blob/master/LICENSE)
 
-MIT License
+### MIT License
 
 Copyright © 2017 [Fork it](https://github.com/fork-it) it and [C. Abraham](https://github.com/19cah)
 Permission is hereby granted, free of charge, to any person obtaining a copy
