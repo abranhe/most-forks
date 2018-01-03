@@ -501,7 +501,6 @@
 <td><a href="https://github.com/fork-it/jetty.project">Jetty Project 🧢 </a></td>
 <td><a href="https://github.com/eclipse/jetty.project">Eclipse</a></td>
 <td><a href="https://github.com/eclipse/jetty.project/fork"><img src="https://img.shields.io/github/forks/eclipse/jetty.project.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
-</tr>
 <tr>
 <td><b id="73">73</b></td>
 <td><a href="https://github.com/fork-it/PowerShell">PowerShell <img src="assets/icones/powershell.png" alt="PowerShell" style="max-width:100%;"></a></td>
