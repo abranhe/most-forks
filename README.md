@@ -511,7 +511,8 @@
 <td><a href="https://github.com/Github/linguist">Github</a></td>
 <td><a href="https://github.com/Github/linguist/fork"><img src="https://img.shields.io/github/forks/Github/linguist.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
-</tr>
+
+<!-- Copy Repository Above this line -->
 </tbody></table>
 
 
