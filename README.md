@@ -144,8 +144,9 @@ If you want to join the [**Fork-it**](https://github.com/fork-it) ![Fork it Logo
 | <b id="71">71</b> | [Spark ![spark](assets/icones/spark.png)](https://github.com/fork-it/spark) |[Apache](https://github.com/apache/spark)| [![Spak](https://img.shields.io/github/forks/apache/spark.svg?style=social&label=Fork)](https://github.com/apache/spark/fork)|
 | <b id="72">72</b> | [Jetty Project 🧢](https://github.com/fork-it/jetty.project) |[Eclipse](https://github.com/eclipse/jetty.project)| [![Spak](https://img.shields.io/github/forks/eclipse/jetty.project.svg?style=social&label=Fork)](https://github.com/eclipse/jetty.project/fork)|
 | <b id="73">73</b> | [PowerShell ![PowerShell](assets/icones/powershell.png)](https://github.com/fork-it/PowerShell) |[PowerShell](https://github.com/PowerShell/PowerShell)| [![PowerShell](https://img.shields.io/github/forks/PowerShell/PowerShell.svg?style=social&label=Fork)](https://github.com/PowerShell/PowerShell/fork)|
+| <b id="74">74</b> | [Linguist 🐙](https://github.com/fork-it/linguist)|[Github](https://github.com/Github/linguist)|[![linguist](https://img.shields.io/github/forks/Github/linguist.svg?style=social&label=Fork)](https://github.com/Github/linguist/fork)|
 
-github/linguist
+github/
 
 
 ## License
