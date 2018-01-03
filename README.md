@@ -505,13 +505,11 @@
 <td><b id="73">73</b></td>
 <td><a href="https://github.com/fork-it/PowerShell">PowerShell <img src="assets/icones/powershell.png" alt="PowerShell" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/PowerShell/PowerShell">PowerShell</a></td>
-<td><a href="https://github.com/PowerShell/PowerShell/fork"><img src="https://img.shields.io/github/forks/PowerShell/PowerShell.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
-<td>
-<b id="74">74</b></td>
+<td><a href="https://github.com/PowerShell/PowerShell/fork"><img src="https://img.shields.io/github/forks/PowerShell/PowerShell.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td><t/tr>
+<td><b id="74">74</b></td>
 <td><a href="https://github.com/fork-it/linguist">Linguist <g-emoji alias="space_invader" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f47e.png" ios-version="6.0">👾</g-emoji></a></td>
 <td><a href="https://github.com/Github/linguist">Github</a></td>
 <td><a href="https://github.com/Github/linguist/fork"><img src="https://img.shields.io/github/forks/Github/linguist.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
-</tr>
 </tr>
 </tbody></table>
 
