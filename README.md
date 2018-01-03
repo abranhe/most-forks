@@ -516,18 +516,16 @@
 <td><a href="https://github.com/fork-it/rust">Rust <img src="assets/icones/rust.png" alt="rust" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/rust-lang/rust">Rust Lang</a></td>
 <td><a href="https://github.com/rust-lang/rust/fork"><img src="https://img.shields.io/github/forks/rust-lang/rust.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+</tr></td>
 </tr>
-</td></tr>
 <td><b id="76">76</b></td>
 <td><a href="https://github.com/fork-it/linguist">Front End Developer Interview Questions 🗒 </a></td>
 <td><a href="https://github.com/Front-End-Developer-Interview-Questions/linguist">h5bp</a></td>
-<td><a href="https://github.com/h5bp/Front-End-Developer-Interview-Questions/fork"><img src="https://img.shields.io/github/forks/h5bp/Front-End-Developer-Interview-Questions.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
-</tr>
+<td><a href="https://github.com/h5bp/Front-End-Developer-Interview-Questions/fork"><img src="https://img.shields.io/github/forks/h5bp/Front-End-Developer-Interview-Questions.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td></tr>
  <td><b id="77">77</b></td>
 <td><a href="https://github.com/fork-it/pyro">Rust <img src="assets/icones/pyro.png" alt="pyro" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/Uber/pyro">Uber</a></td>
 <td><a href="https://github.com/Uber/pyro/fork"><img src="https://img.shields.io/github/forks/Uber/pyro.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
-</tr>
 <!-- Copy Repository Above this line -->
 
 </tbody></table>
