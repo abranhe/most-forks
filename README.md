@@ -522,11 +522,24 @@
 </tbody></table>
 
 
-<h3 id="LICENSE">LICENSE</h3>
+<h2 id="LICENSE">LICENSE</h2>
 
 <p><a href="https://github.com/fork-it/weFork/blob/master/LICENSE"><img src="assets/icones/mit-license.png" alt="LICENSE"></a></p>
 
-<p>To the extent possible under law, <a href="https://github.com/fork-it">Fork it</a> and <a href="https://github.com/19cah">C. Abraham</a> has waived all copyright and related or neighboring rights to this work.</p>
+<h3> MIT License </h3>
+
+Copyright © 2017 <a href="https://github.com/fork-it">Fork it</a> and <a href="https://github.com/19cah">C. Abraham</a> 
+<p>
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the conditions in <a href="https://github.com/fork-it/weFork/blob/master/LICENSE">License</a>:
+</p>
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
 <p align="center">
 	<a href="#top">Top ⬆️ </a>
