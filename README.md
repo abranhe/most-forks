@@ -508,7 +508,7 @@
 <td><a href="https://github.com/PowerShell/PowerShell">PowerShell</a></td>
 <td><a href="https://github.com/PowerShell/PowerShell/fork"><img src="https://img.shields.io/github/forks/PowerShell/PowerShell.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 <td>
-<b id="46">46</b></td>
+<b id="74">74</b></td>
 <td><a href="https://github.com/fork-it/Gitignore">Gitignore <g-emoji alias="space_invader" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f47e.png" ios-version="6.0">👾</g-emoji></a></td>
 <td><a href="https://github.com/Github/Gitignore">Github</a></td>
 <td><a href="https://github.com/Github/Gitignore/fork"><img src="https://img.shields.io/github/forks/Github/Gitignore.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
