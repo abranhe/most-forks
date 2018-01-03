@@ -509,14 +509,14 @@
 <td><a href="https://github.com/PowerShell/PowerShell/fork"><img src="https://img.shields.io/github/forks/PowerShell/PowerShell.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 <td>
 <b id="74">74</b></td>
-<td><a href="https://github.com/fork-it/Gitignore">Gitignore <g-emoji alias="space_invader" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f47e.png" ios-version="6.0">👾</g-emoji></a></td>
-<td><a href="https://github.com/Github/Gitignore">Github</a></td>
-<td><a href="https://github.com/Github/Gitignore/fork"><img src="https://img.shields.io/github/forks/Github/Gitignore.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/linguist">Linguist <g-emoji alias="space_invader" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f47e.png" ios-version="6.0">👾</g-emoji></a></td>
+<td><a href="https://github.com/Github/linguist">Github</a></td>
+<td><a href="https://github.com/Github/linguist/fork"><img src="https://img.shields.io/github/forks/Github/linguist.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 </tr>
 </tbody></table>
 
-linguist
+
 <h3 id="LICENSE">LICENSE</h3>
 
 <p><a href="https://github.com/fork-it/weFork/blob/master/LICENSE"><img src="assets/icones/mit-license.png" alt="LICENSE"></a></p>
