@@ -527,7 +527,7 @@
 </tr>
 <tr>
 <td><b id="77">77</b></td>
-<td><a href="https://github.com/fork-it/pyro">Rust <img src="assets/icones/pyro.png" alt="pyro" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/pyro">Pyro <img src="assets/icones/pyro.png" alt="pyro" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/Uber/pyro">Uber</a></td>
 <td><a href="https://github.com/Uber/pyro/fork"><img src="https://img.shields.io/github/forks/Uber/pyro.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -542,7 +542,7 @@
 
 <h3> MIT License </h3>
 
-Copyright © 2017 <a href="https://github.com/fork-it">Fork it</a> and <a href="https://github.com/19cah">C. Abraham</a> 
+Copyright © 2018 <a href="https://github.com/fork-it">Fork it</a> and <a href="https://github.com/19cah">C. Abraham</a> 
 <p>
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
