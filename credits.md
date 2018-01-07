@@ -54,6 +54,6 @@
 	    <img src="assets/fork/fork50px.png" alt="Fork it">
 	</p>
 	<p align="center">
-	    <small>2017 &copy let's Fork It. </small>
+	    <small>2018 &copy let's Fork It. </small>
 	</p>
 </html>
