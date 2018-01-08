@@ -572,6 +572,6 @@ copies or substantial portions of the Software.
 	<img src="assets/fork/fork50px.png" alt="Fork it">
 </p>
 <p align="center">
-	<small>2018 &copy <b>weFork</b>. </small><br>
+	<small>2018 © <b>weFork</b>. </small><br>
 	<em>let's Fork It! 🦋</em>
 </p>
