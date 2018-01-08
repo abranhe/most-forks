@@ -73,7 +73,6 @@
 <th>Forks</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td><b id="1">1</b></td>
@@ -542,7 +541,6 @@
 <td><a href="https://github.com/GNOME/vala">Gnome</a></td>
 <td><a href="https://github.com/GNOME/vala/fork"><img src="https://img.shields.io/github/forks/GNOME/vala.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
-
 <!-- Copy Repository Above this line -->
 </tbody>
 </table>
