@@ -41,16 +41,16 @@
 <h4 align="center">
 	<br><br>
 	<!-- Twitter -->
-	<img src="assets/icones/twitter.png" alt="Twitter">
+	<img src="assets/icons/twitter.png" alt="Twitter">
 	<a href="https://twitter.com/intent/tweet?text=Get%20your%20repository%20forked%20at%20https://github.com/fork-it/weFork">Twitter</a>&nbsp;&nbsp;&nbsp;
 	<!-- Facebook -->
-	<img src="assets/icones/facebook.png" alt="Facebook">
+	<img src="assets/icons/facebook.png" alt="Facebook">
 	<a href="https://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=https://github.com/fork-it/weFork"> Facebook</a>&nbsp;&nbsp;&nbsp;
 	<!-- Google Plus -->
-	<img src="assets/icones/google-plus.png" alt="Google Plus">
+	<img src="assets/icons/google-plus.png" alt="Google Plus">
 	<a href="https://plus.google.com/share?url=https://github.com/fork-it/weFork">Google Plus</a>&nbsp;&nbsp;&nbsp;
 	<!-- Linkedin -->
-	<img src="assets/icones/linkedin.png" alt="Linkedin">
+	<img src="assets/icons/linkedin.png" alt="Linkedin">
 	<a href="https://www.linkedin.com/sharing/share-offsite?mini=true&url=https://github.com/fork-it/weFork&title=Get%20your%20repository%20forked&summary=&source="> Linkedin </a>&nbsp;&nbsp;&nbsp;
 	<br><br>
 </h4>
@@ -94,13 +94,13 @@
 </tr>
 <tr>
 <td><b id="4">4</b></td>
-<td><a href="https://github.com/fork-it/bootstrap">Bootstrap <img src="assets/icones/bootstrap.png" alt="Bootstrap" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/bootstrap">Bootstrap <img src="assets/icons/bootstrap.png" alt="Bootstrap" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/twbs/bootstrap">Twbs</a></td>
 <td><a href="https://github.com/twbs/bootstrap/fork"><img src="https://img.shields.io/github/forks/twbs/bootstrap.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="5">5</b></td>
-<td><a href="https://github.com/fork-it/vscode">VS Code <img src="assets/icones/visual-studio.png" alt="VS Code" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/vscode">VS Code <img src="assets/icons/visual-studio.png" alt="VS Code" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/Microsoft/vscode">Microsoft</a></td>
 <td><a href="https://github.com/Microsoft/vscode/fork"><img src="https://img.shields.io/github/forks/Microsoft/vscode.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -118,7 +118,7 @@
 </tr>
 <tr>
 <td><b id="8">8</b></td>
-<td><a href="https://github.com/fork-it/react-native-navigation">Reac Native Navigation <img src="assets/icones/react-native-navigation.png" alt="React Native Navigation" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/react-native-navigation">Reac Native Navigation <img src="assets/icons/react-native-navigation.png" alt="React Native Navigation" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/wix/react-native-navigation">Wix</a></td>
 <td><a href="https://github.com/wix/react-native-navigation/fork"><img src="https://img.shields.io/github/forks/wix/react-native-navigation.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -136,7 +136,7 @@
 </tr>
 <tr>
 <td><b id="11">11</b></td>
-<td><a href="https://github.com/fork-it/swift">Swift <img src="assets/icones/swift.png" alt="Swift" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/swift">Swift <img src="assets/icons/swift.png" alt="Swift" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/apple/swift">Apple</a></td>
 <td><a href="https://github.com/apple/swift/fork"><img src="https://img.shields.io/github/forks/apple/swift.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -148,13 +148,13 @@
 </tr>
 <tr>
 <td><b id="13">13</b></td>
-<td><a href="https://github.com/fork-it/Node">Node <img src="assets/icones/nodejs.png" alt="Nodejs" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/Node">Node <img src="assets/icons/nodejs.png" alt="Nodejs" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/Nodejs/Node">Nodejs</a></td>
 <td><a href="https://github.com/Nodejs/Node/fork"><img src="https://img.shields.io/github/forks/Nodejs/Node.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="14">14</b></td>
-<td><a href="https://github.com/fork-it/Electron">Electron <img src="assets/icones/electron.png" alt="Electron" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/Electron">Electron <img src="assets/icons/electron.png" alt="Electron" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/Electron/Electron">Electron</a></td>
 <td><a href="https://github.com/Electron/Electron/fork"><img src="https://img.shields.io/github/forks/Electron/Electron.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -166,25 +166,25 @@
 </tr>
 <tr>
 <td><b id="16">16</b></td>
-<td><a href="https://github.com/fork-it/Hyper">Hyper <img src="assets/icones/hyper.png" alt="Hyper" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/Hyper">Hyper <img src="assets/icons/hyper.png" alt="Hyper" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/zeit/hyper">Zeit</a></td>
 <td><a href="https://github.com/zeit/hyper/fork"><img src="https://img.shields.io/github/forks/zeit/hyper.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="17">17</b></td>
-<td><a href="https://github.com/fork-it/Jekyll">Jekyll <img src="assets/icones/jekyll.png" alt="Jekyll" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/Jekyll">Jekyll <img src="assets/icons/jekyll.png" alt="Jekyll" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/Jekyll/Jekyll">Jekyll</a></td>
 <td><a href="https://github.com/Jekyll/Jekyll/fork"><img src="https://img.shields.io/github/forks/Jekyll/Jekyll.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="18">18</b></td>
-<td><a href="https://github.com/fork-it/go">Go <img src="assets/icones/go.png" alt="Go" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/go">Go <img src="assets/icons/go.png" alt="Go" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/golang/go">Golang</a></td>
 <td><a href="https://github.com/golang/go/fork"><img src="https://img.shields.io/github/forks/golang/go.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="19">19</b></td>
-<td><a href="https://github.com/fork-it/html">HTML <img src="assets/icones/html5.png" alt="HTML" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/html">HTML <img src="assets/icons/html5.png" alt="HTML" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/w3c/html">w3c</a></td>
 <td><a href="https://github.com/w3c/html/fork"><img src="https://img.shields.io/github/forks/w3c/html.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -202,37 +202,37 @@
 </tr>
 <tr>
 <td><b id="22">22</b></td>
-<td><a href="https://github.com/fork-it/Materialize">Materialize <img src="assets/icones/materialize.png" alt="Materialize" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/Materialize">Materialize <img src="assets/icons/materialize.png" alt="Materialize" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/Dogfalo/materialize">Dogfalo</a></td>
 <td><a href="https://github.com/Dogfalo/materialize/fork"><img src="https://img.shields.io/github/forks/Dogfalo/materialize.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="23">23</b></td>
-<td><a href="https://github.com/fork-it/git">Git <img src="assets/icones/git.png" alt="Git" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/git">Git <img src="assets/icons/git.png" alt="Git" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/git/git">Git</a></td>
 <td><a href="https://github.com/git/git/fork"><img src="https://img.shields.io/github/forks/git/git.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="24">24</b></td>
-<td><a href="https://github.com/fork-it/Font-Awesome">Font Awesome <img src="assets/icones/font-awesome.png" alt="Font Awesome" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/Font-Awesome">Font Awesome <img src="assets/icons/font-awesome.png" alt="Font Awesome" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/FortAwesome/Font-Awesome">FortAwesome</a></td>
 <td><a href="https://github.com/FortAwesome/Font-Awesome/fork"><img src="https://img.shields.io/github/forks/FortAwesome/Font-Awesome.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="25">25</b></td>
-<td><a href="https://github.com/fork-it/Desktop">Github Desktop <img src="assets/icones/github-desktop.png" alt="Desktop" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/Desktop">Github Desktop <img src="assets/icons/github-desktop.png" alt="Desktop" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/Desktop/Desktop">Desktop</a></td>
 <td><a href="https://github.com/Desktop/Desktop/fork"><img src="https://img.shields.io/github/forks/Desktop/Desktop.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="26">26</b></td>
-<td><a href="https://github.com/fork-it/aws-cli">Amazon CLI <img src="assets/icones/amazon.png" alt="Amazon" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/aws-cli">Amazon CLI <img src="assets/icons/amazon.png" alt="Amazon" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/aws/aws-cli">Aws</a></td>
 <td><a href="https://github.com/Desktop/Desktop/fork"><img src="https://img.shields.io/github/forks/aws/aws-cli.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="27">27</b></td>
-<td><a href="https://github.com/fork-it/express">Express <img src="assets/icones/express.png" alt="Express" style="max-width:100%;"> </a></td>
+<td><a href="https://github.com/fork-it/express">Express <img src="assets/icons/express.png" alt="Express" style="max-width:100%;"> </a></td>
 <td><a href="https://github.com/expressjs/express">Expressjs</a></td>
 <td><a href="https://github.com/expressjs/express/fork"><img src="https://img.shields.io/github/forks/expressjs/express.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -262,7 +262,7 @@
 </tr>
 <tr>
 <td><b id="32">32</b></td>
-<td><a href="https://github.com/fork-it/socket.io">Socket.io <img src="assets/icones/socket-io.png" alt="Socket.io" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/socket.io">Socket.io <img src="assets/icons/socket-io.png" alt="Socket.io" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/socketio/socket.io">Socket</a></td>
 <td><a href="https://github.com/socketio/socket.io/fork"><img src="https://img.shields.io/github/forks/socketio/socket.io.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -274,13 +274,13 @@
 </tr>
 <tr>
 <td><b id="34">34</b></td>
-<td><a href="https://github.com/fork-it/Pxt">Pxt <img src="assets/icones/pxt.png" alt="Pxt" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/Pxt">Pxt <img src="assets/icons/pxt.png" alt="Pxt" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/Microsoft/pxt">Microsoft</a></td>
 <td><a href="https://github.com/Microsoft/pxt/fork"><img src="https://img.shields.io/github/forks/Microsoft/pxt.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="35">35</b></td>
-<td><a href="https://github.com/fork-it/Draggable">Draggable <img src="assets/icones/draggable.png" alt="Draggable" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/Draggable">Draggable <img src="assets/icons/draggable.png" alt="Draggable" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/Shopify/draggable">Shopify</a></td>
 <td><a href="https://github.com/Shopify/draggable/fork"><img src="https://img.shields.io/github/forks/Shopify/draggable.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -298,7 +298,7 @@
 </tr>
 <tr>
 <td><b id="38">38</b></td>
-<td><a href="https://github.com/fork-it/travis-ci">Travis-ci <img src="assets/icones/travis.png" alt="Travis" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/travis-ci">Travis-ci <img src="assets/icons/travis.png" alt="Travis" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/travis-ci/travis-ci">Travis-ci</a></td>
 <td><a href="https://github.com/travis-ci/travis-ci/fork"><img src="https://img.shields.io/github/forks/travis-ci/travis-ci.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -310,7 +310,7 @@
 </tr>
 <tr>
 <td><b id="40">40</b></td>
-<td><a href="https://github.com/fork-it/TypeScript">TypeScript <img src="assets/icones/typescript.png" alt="TypeScript" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/TypeScript">TypeScript <img src="assets/icons/typescript.png" alt="TypeScript" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/Microsoft/TypeScript">Microsoft</a></td>
 <td><a href="https://github.com/Microsoft/TypeScript/fork"><img src="https://img.shields.io/github/forks/Microsoft/TypeScript.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -322,19 +322,19 @@
 </tr>
 <tr>
 <td><b id="42">42</b></td>
-<td><a href="https://github.com/fork-it/d3">D3 <img src="assets/icones/d3.png" alt="d3" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/d3">D3 <img src="assets/icons/d3.png" alt="d3" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/d3/d3">D3</a></td>
 <td><a href="https://github.com/d3/d3/fork"><img src="https://img.shields.io/github/forks/d3/d3.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="43">43</b></td>
-<td><a href="https://github.com/fork-it/tensorflow">Tensorflow <img src="assets/icones/tensorflow.png" alt="tensorflow" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/tensorflow">Tensorflow <img src="assets/icons/tensorflow.png" alt="tensorflow" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/tensorflow/tensorflow">Tensorflow</a></td>
 <td><a href="https://github.com/tensorflow/tensorflow/fork"><img src="https://img.shields.io/github/forks/tensorflow/tensorflow.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="44">44</b></td>
-<td><a href="https://github.com/fork-it/SmartThingsPublic">SmartThingsPublic <img src="assets/icones/stp.png" alt="SmartThingsPublic" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/SmartThingsPublic">SmartThingsPublic <img src="assets/icons/stp.png" alt="SmartThingsPublic" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/tensorflow/tensorflow">SmartThingsCommunity</a></td>
 <td><a href="https://github.com/SmartThingsCommunity/SmartThingsPublic/fork"><img src="https://img.shields.io/github/forks/SmartThingsCommunity/SmartThingsPublic.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -358,7 +358,7 @@
 </tr>
 <tr>
 <td><b id="48">48</b></td>
-<td><a href="https://github.com/fork-it/vapor">Vapor <img src="assets/icones/vapor.png" alt="Vapor" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/vapor">Vapor <img src="assets/icons/vapor.png" alt="Vapor" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/vapor/vapor">Vapor</a></td>
 <td><a href="https://github.com/emacs-evil/evil/fork"><img src="https://img.shields.io/github/forks/vapor/vapor.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -382,7 +382,7 @@
 </tr>
 <tr>
 <td><b id="52">52</b></td>
-<td><a href="https://github.com/fork-it/Shields">Shields <img src="assets/icones/shields.png" alt="Vapor" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/Shields">Shields <img src="assets/icons/shields.png" alt="Vapor" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/badges/shields">Badges</a></td>
 <td><a href="https://github.com/badges/shields/fork"><img src="https://img.shields.io/github/forks/badges/shields.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -394,7 +394,7 @@
 </tr>
 <tr>
 <td><b id="54">54</b></td>
-<td><a href="https://github.com/fork-it/jquery">jQuery <img src="assets/icones/jquery.png" alt="jQuery" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/jquery">jQuery <img src="assets/icons/jquery.png" alt="jQuery" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/jquery/jquery">jQuery</a></td>
 <td><a href="https://github.com/jquery/jquery/fork"><img src="https://img.shields.io/github/forks/jquery/jquery.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -406,7 +406,7 @@
 </tr>
 <tr>
 <td><b id="56">56</b></td>
-<td><a href="https://github.com/fork-it/html5-boilerplate">HTML5 Boilerplate <img src="assets/icones/boilerplate.png" alt="boilerplate" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/html5-boilerplate">HTML5 Boilerplate <img src="assets/icons/boilerplate.png" alt="boilerplate" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/h5bp/html5-boilerplate">H5bp</a></td>
 <td><a href="https://github.com/h5bp/html5-boilerplate/fork"><img src="https://img.shields.io/github/forks/h5bp/html5-boilerplate.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -448,19 +448,19 @@
 </tr>
 <tr>
 <td><b id="63">63</b></td>
-<td><a href="https://github.com/fork-it/moby">Moby <img src="assets/icones/moby.png" alt="Moby" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/moby">Moby <img src="assets/icons/moby.png" alt="Moby" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/moby/moby">Moby</a></td>
 <td><a href="https://github.com/moby/moby/fork"><img src="https://img.shields.io/github/forks/moby/moby.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="64">64</b></td>
-<td><a href="https://github.com/fork-it/bitcoin">Bitcoin <img src="assets/icones/bitcoin.png" alt="bitcoin" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/bitcoin">Bitcoin <img src="assets/icons/bitcoin.png" alt="bitcoin" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/bitcoin/bitcoin">Bitcoin</a></td>
 <td><a href="https://github.com/bitcoin/bitcoin/fork"><img src="https://img.shields.io/github/forks/bitcoin/bitcoin.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="65">65</b></td>
-<td><a href="https://github.com/fork-it/opencv">Opencv <img src="assets/icones/opencv.png" alt="opencv" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/opencv">Opencv <img src="assets/icons/opencv.png" alt="opencv" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/opencv/opencv">Opencv</a></td>
 <td><a href="https://github.com/opencv/opencv/fork"><img src="https://img.shields.io/github/forks/opencv/opencv.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -496,7 +496,7 @@
 </tr>
 <tr>
 <td><b id="71">71</b></td>
-<td><a href="https://github.com/fork-it/spark">Spark <img src="assets/icones/spark.png" alt="spark" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/spark">Spark <img src="assets/icons/spark.png" alt="spark" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/apache/spark">Apache</a></td>
 <td><a href="https://github.com/apache/spark/fork"><img src="https://img.shields.io/github/forks/apache/spark.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -507,7 +507,7 @@
 <td><a href="https://github.com/eclipse/jetty.project/fork"><img src="https://img.shields.io/github/forks/eclipse/jetty.project.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 <tr>
 <td><b id="73">73</b></td>
-<td><a href="https://github.com/fork-it/PowerShell">PowerShell <img src="assets/icones/powershell.png" alt="PowerShell" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/PowerShell">PowerShell <img src="assets/icons/powershell.png" alt="PowerShell" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/PowerShell/PowerShell">PowerShell</a></td>
 <td><a href="https://github.com/PowerShell/PowerShell/fork"><img src="https://img.shields.io/github/forks/PowerShell/PowerShell.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -519,7 +519,7 @@
 </tr>
 <tr>
 <td><b id="75">75</b></td>
-<td><a href="https://github.com/fork-it/rust">Rust <img src="assets/icones/rust.png" alt="rust" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/rust">Rust <img src="assets/icons/rust.png" alt="rust" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/rust-lang/rust">Rust Lang</a></td>
 <td><a href="https://github.com/rust-lang/rust/fork"><img src="https://img.shields.io/github/forks/rust-lang/rust.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -531,7 +531,7 @@
 </tr>
 <tr>
 <td><b id="77">77</b></td>
-<td><a href="https://github.com/fork-it/pyro">Pyro <img src="assets/icones/pyro.png" alt="pyro" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/pyro">Pyro <img src="assets/icons/pyro.png" alt="pyro" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/Uber/pyro">Uber</a></td>
 <td><a href="https://github.com/Uber/pyro/fork"><img src="https://img.shields.io/github/forks/Uber/pyro.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -548,7 +548,7 @@
 
 <h3 id="LICENSE">LICENSE</h3>
 
-<p><a href="https://github.com/fork-it/weFork/blob/master/LICENSE"><img src="assets/icones/mit-license.png" alt="LICENSE"></a></p>
+<p><a href="https://github.com/fork-it/weFork/blob/master/LICENSE"><img src="assets/icons/mit-license.png" alt="LICENSE"></a></p>
 
 <h3> MIT License </h3>
 
