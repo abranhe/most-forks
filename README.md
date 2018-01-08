@@ -69,6 +69,7 @@
 <th>Forks</th>
 </tr>
 </thead>
+
 <tbody>
 <tr>
 <td><b id="1">1</b></td>
@@ -539,8 +540,8 @@
 </tr>
 
 <!-- Copy Repository Above this line -->
-
-</tbody></table>
+</tbody>
+</table>
 
 
 <h2 id="LICENSE">LICENSE</h2>
