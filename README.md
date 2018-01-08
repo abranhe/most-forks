@@ -1,6 +1,6 @@
 <p id="top"><p>
 
-<p align="center"><img width="300" src="assets/fork/fork-it.png" alt="Fork it!"><br><br>
+<p align="center"><img width="300" src="assets/fork/forkit.png" alt="Fork it!"><br><br>
 
 <h4 align="center">Let's Fork it!<h4>
 
