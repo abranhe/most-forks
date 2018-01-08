@@ -5,6 +5,10 @@
 <h4 align="center">Let's Fork it!<h4>
 
 <p align="center">
+<img src="https://png.icons8.com/ios/16/000000/geography-filled.png" alt="Web"> <a href="http://weFork.ga"><code>weFork.ga</code></a>
+</p>
+
+<p align="center">
 <!-- Start of "INCLUDED ON WeFORK BANDGE" -->
 <!-- To add you bandge to your repository, copy the code and paste it on your README file.
 	VALUES TO CHANGE
