@@ -546,7 +546,7 @@
 </table>-->
 
 
-<h2 id="LICENSE">LICENSE</h2>
+<h3 id="LICENSE">LICENSE</h3>
 
 <p><a href="https://github.com/fork-it/weFork/blob/master/LICENSE"><img src="assets/icones/mit-license.png" alt="LICENSE"></a></p>
 
