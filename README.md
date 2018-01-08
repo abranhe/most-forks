@@ -535,7 +535,7 @@
 <td><b id="78">78</b></td>
 <td><a href="https://github.com/fork-it/vala">Vala 📪 </a></td>
 <td><a href="https://github.com/GNOME/vala">h5bp</a></td>
-<td><a href="https://github.com/h5bp/Front-End-Developer-Interview-Questions/fork"><img src="https://img.shields.io/github/forks/h5bp/Front-End-Developer-Interview-Questions.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/GNOME/vala/fork"><img src="https://img.shields.io/github/forks/h5bp/Front-End-Developer-Interview-Questions.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 
 <!-- Copy Repository Above this line -->
