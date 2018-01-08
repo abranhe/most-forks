@@ -542,8 +542,8 @@
 <td><a href="https://github.com/GNOME/vala/fork"><img src="https://img.shields.io/github/forks/GNOME/vala.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <!-- Copy Repository Above this line -->
-</tbody>
-</table>
+<!--</tbody>
+</table>-->
 
 
 <h2 id="LICENSE">LICENSE</h2>
