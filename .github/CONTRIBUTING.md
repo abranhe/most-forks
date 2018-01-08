@@ -1,6 +1,6 @@
 # 🔁  Contributing  [![Code Triangle Code Helper](https://www.codetriage.com/fork-it/wefork/badges/users.svg)](https://www.codetriage.com/fork-it/wefork)
 	
-You can feel free to contribute to ***weFork*** repository.
+You can feel free to contribute to ***weFork*** repository. Just type [git.io/weFork](https://git.io/weFork) on your browser.
 
 ### Steps
 
