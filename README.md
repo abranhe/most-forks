@@ -547,7 +547,6 @@
 <td><a href="https://github.com/barryclark/jekyll-now">Barryclark</a></td>
 <td><a href="https://github.com/barryclark/jekyll-now/fork"><img src="https://img.shields.io/github/forks/barryclark/jekyll-now.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
-barryclark/jekyll-now
 <!-- Copy Repository Above this line -->
 <!--</tbody>
 </table>-->
