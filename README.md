@@ -542,7 +542,7 @@
 <td><a href="https://github.com/GNOME/vala/fork"><img src="https://img.shields.io/github/forks/GNOME/vala.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
-<td><b id="78">78</b></td>
+<td><b id="79">79</b></td>
 <td><a href="https://github.com/fork-it/vala">Vala 📪 </a></td>
 <td><a href="https://github.com/GNOME/vala">Gnome</a></td>
 <td><a href="https://github.com/GNOME/vala/fork"><img src="https://img.shields.io/github/forks/GNOME/vala.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
