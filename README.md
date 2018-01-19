@@ -548,6 +548,7 @@
 <td><a href="https://github.com/barryclark/jekyll-now/fork"><img src="https://img.shields.io/github/forks/barryclark/jekyll-now.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <!-- Copy Repository Above this line -->
+	Hack-with-Github/Awesome-Hacking
 <!--</tbody>
 </table>-->
 
