@@ -549,7 +549,7 @@
 </tr>
 <tr>
 <td><b id="80">80</b></td>
-<td><a href="https://github.com/fork-it/Hack-with-Github">Awesome Hacking 🍄</a></td>
+<td><a href="https://github.com/fork-it/Awesome-Hacking">Awesome Hacking 🍄</a></td>
 <td><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Barryclark</a></td>
 <td><a href="https://github.com/Hack-with-Github/Awesome-Hacking/fork"><img src="https://img.shields.io/github/forks/Hack-with-Github/Awesome-Hacking.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
