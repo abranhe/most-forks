@@ -548,7 +548,7 @@
 <td><a href="https://github.com/barryclark/jekyll-now/fork"><img src="https://img.shields.io/github/forks/barryclark/jekyll-now.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
-<td><b id="79">79</b></td>
+<td><b id="80">80</b></td>
 <td><a href="https://github.com/fork-it/jekyll-now">Jekyll Now 💉</a></td>
 <td><a href="https://github.com/barryclark/jekyll-now">Barryclark</a></td>
 <td><a href="https://github.com/barryclark/jekyll-now/fork"><img src="https://img.shields.io/github/forks/barryclark/jekyll-now.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
