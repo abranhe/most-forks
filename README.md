@@ -172,7 +172,7 @@ If you want to join the [**Fork-it**](https://github.com/fork-it) ![Fork it Logo
 
 
 
-<!-- Add Repository Above this Comment -->
+<!-- Add Repositories Above this Comment -->
 
 ## License
 
