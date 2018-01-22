@@ -162,6 +162,7 @@ If you want to join the [**Fork-it**](https://github.com/fork-it) ![Fork it Logo
 | <b id="85">85</b> | [Ansible ![Ansible](assets/icons/ansible.png)](https://github.com/fork-it/ansible)|[Ansible](https://github.com/ansible/ansible)|[![ansible](https://img.shields.io/github/forks/ansible/ansible.svg?style=social&label=Fork)](https://github.com/ansible/ansible/fork)|
 | <b id="86">86</b> | [Angular CLI ♦️](https://github.com/fork-it/angular-cli)|[Angular](https://github.com/Angular/angular-cli)|[![angular-cli](https://img.shields.io/github/forks/Angular/angular-cli.svg?style=social&label=Fork)](https://github.com/Angular/angular-cli/fork)|
 | <b id="87">87</b> | [Exercism.io ![Exercism](assets/icons/exercism.png)](https://github.com/fork-it/exercism.io)|[Exercism](https://github.com/exercism/exercism.io)|[![exercism](https://img.shields.io/github/forks/exercism/exercism.io.svg?style=social&label=Fork)](https://github.com/exercism/exercism.io/fork)|
+| <b id="88">88</b> | [Kops 🖇 ](https://github.com/fork-it/kops)|[Kubernetes](https://github.com/kubernetes/kops)|[![kops](https://img.shields.io/github/forks/kubernetes/kops.svg?style=social&label=Fork)](https://github.com/kubernetes/kops/fork)|
 
 
 
