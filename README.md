@@ -164,7 +164,7 @@ If you want to join the [**Fork-it**](https://github.com/fork-it) ![Fork it Logo
 | <b id="87">87</b> | [Exercism.io ![Exercism](assets/icons/exercism.png)](https://github.com/fork-it/exercism.io)|[Exercism](https://github.com/exercism/exercism.io)|[![exercism](https://img.shields.io/github/forks/exercism/exercism.io.svg?style=social&label=Fork)](https://github.com/exercism/exercism.io/fork)|
 | <b id="88">88</b> | [Kops 🖇 ](https://github.com/fork-it/kops)|[Kubernetes](https://github.com/kubernetes/kops)|[![kops](https://img.shields.io/github/forks/kubernetes/kops.svg?style=social&label=Fork)](https://github.com/kubernetes/kops/fork)|
 | <b id="89">89</b> | [Phantomjs ![phantomjs](assets/icons/phantomjs.png)](https://github.com/fork-it/phantomjs)|[Ariya](https://github.com/ariya/phantomjs)|[![Phantomjs](https://img.shields.io/github/forks/ariya/phantomjs.svg?style=social&label=Fork)](https://github.com/ariya/phantomjs/fork)|
-| <b id="-90">90</b> | [C Python![cpython](assets/icons/phantomjs.png)](https://github.com/fork-it/phantomjs)|[Ariya](https://github.com/ariya/phantomjs)|[![Phantomjs](https://img.shields.io/github/forks/ariya/phantomjs.svg?style=social&label=Fork)](https://github.com/ariya/phantomjs/fork)|
+| <b id="-90">90</b> | [C Python![cpython](assets/icons/python.png)](https://github.com/fork-it/cpython)|[Python](https://github.com/ariya/phantomjs)|[![cpython](https://img.shields.io/github/forks/ariya/phantomjs.svg?style=social&label=Fork)](https://github.com/ariya/phantomjs/fork)|
 
 
 python/cpython
