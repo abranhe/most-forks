@@ -158,11 +158,12 @@ If you want to join the [**Fork-it**](https://github.com/fork-it) ![Fork it Logo
 | <b id="81">81</b> | [Models 〽️](https://github.com/fork-it/models)|[Tensorflow](https://github.com/tensorflow/models)|[![models](https://img.shields.io/github/forks/tensorflow/models.svg?style=social&label=Fork)](https://github.com/tensorflow/models/fork)|
 | <b id="82">82</b> | [Patchwork 🈂️](https://github.com/fork-it/patchwork)|[jLord](https://github.com/jlord/patchwork)|[![patchwork](https://img.shields.io/github/forks/jlord/patchwork.svg?style=social&label=Fork)](https://github.com/jlord/patchwork/fork)|
 | <b id="83">83</b> | [Spring Boot 📣](https://github.com/fork-it/spring-boot)|[Spring Projects](https://github.com/spring-projects/spring-boot)|[![patchwork](https://img.shields.io/github/forks/spring-projects/spring-boot.svg?style=social&label=Fork)](https://github.com/spring-projects/spring-boot/fork)|
-| <b id="84">84</b> | [NPM ![Add NPM Image](assets/icons/npm.png)](https://github.com/fork-it/npm)|[NPM](https://github.com/npm/npm)|[![npm](https://img.shields.io/github/forks/npm/npm.svg?style=social&label=Fork)](https://github.com/npm/npm/fork)|
-| <b id="85">85</b> | [Ansible ![Add Ansible Image](assets/icons/ansible.png)](https://github.com/fork-it/ansible)|[Ansible](https://github.com/ansible/ansible)|[![ansible](https://img.shields.io/github/forks/ansible/ansible.svg?style=social&label=Fork)](https://github.com/ansible/ansible/fork)|
+| <b id="84">84</b> | [NPM ![NPM](assets/icons/npm.png)](https://github.com/fork-it/npm)|[NPM](https://github.com/npm/npm)|[![npm](https://img.shields.io/github/forks/npm/npm.svg?style=social&label=Fork)](https://github.com/npm/npm/fork)|
+| <b id="85">85</b> | [Ansible ![Ansible](assets/icons/ansible.png)](https://github.com/fork-it/ansible)|[Ansible](https://github.com/ansible/ansible)|[![ansible](https://img.shields.io/github/forks/ansible/ansible.svg?style=social&label=Fork)](https://github.com/ansible/ansible/fork)|
 | <b id="86">86</b> | [Angular CLI ♦️](https://github.com/fork-it/angular-cli)|[Angular](https://github.com/Angular/angular-cli)|[![angular-cli](https://img.shields.io/github/forks/Angular/angular-cli.svg?style=social&label=Fork)](https://github.com/Angular/angular-cli/fork)|
+| <b id="87">87</b> | [Exercism.io ![Exercism](assets/icons/exercism.png)](https://github.com/fork-it/exercism.io)|[Exercism](https://github.com/exercism/exercism.io)|[![exercism](https://img.shields.io/github/forks/exercism/exercism.io.svg?style=social&label=Fork)](https://github.com/exercism/exercism.io/fork)|
 
-exercism/exercism.io
+
 
 <!-- Add Repository Above this Comment -->
 
