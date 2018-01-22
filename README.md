@@ -167,8 +167,6 @@ If you want to join the [**Fork-it**](https://github.com/fork-it) ![Fork it Logo
 | <b id="-90">90</b> | [C Python ![cpython](assets/icons/python.png)](https://github.com/fork-it/cpython)|[Python](https://github.com/python/cpython)|[![cpython](https://img.shields.io/github/forks/python/cpython.svg?style=social&label=Fork)](https://github.com/python/cpython/fork)|
 | <b id="88">88</b> | [kubernetes](https://github.com/fork-it/kubernetes)|[Kubernetes](https://github.com/kubernetes/kubernetes)|[![kubernetes](https://img.shields.io/github/forks/kubernetes/kubernetes.svg?style=social&label=Fork)](https://github.com/kubernetes/kubernetes/fork)|
 
-kubernetes/
-
 
 <!-- Add Repository Above this Comment -->
 
