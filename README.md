@@ -169,6 +169,7 @@ If you want to join the [**Fork-it**](https://github.com/fork-it) ![Fork it Logo
 | <b id="92">92</b> | [Babel ![Babel](assets/icons/babeljs.png)](https://github.com/fork-it/babel)|[Babel](https://github.com/babel/babel)|[![Babel](https://img.shields.io/github/forks/babel/babel.svg?style=social&label=Fork)](https://github.com/babel/babel/fork)|
 | <b id="93">93</b> | [Django ![django](assets/icons/django.png)](https://github.com/fork-it/django)|[Django](https://github.com/django/django)|[![django](https://img.shields.io/github/forks/django/django.svg?style=social&label=Fork)](https://github.com/django/django/fork)|
 | <b id="94">94</b> | [Vue ![vue](assets/icons/vue.png)](https://github.com/fork-it/vue)|[Vuejs](https://github.com/vuejs/vue)|[![vue](https://img.shields.io/github/forks/vuejs/vue.svg?style=social&label=Fork)](https://github.com/vuejs/vue/fork)|
+| <b id="95">95</b> | [spring-framework 🌕](https://github.com/fork-it/spring-framework)|[Spring Projects](https://github.com/spring-projects/spring-framework)|[![Spring Framework](https://img.shields.io/github/forks/spring-projects/spring-framework.svg?style=social&label=Fork)](https://github.com/spring-projects/spring-framework/fork)|
 
 
 
