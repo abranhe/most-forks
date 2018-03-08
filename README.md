@@ -573,15 +573,15 @@
 </tr>
 <tr>
 <td><b id="84">84</b></td>
-<td><a href="https://github.com/fork-it/Awesome-Hacking">Awesome Hacking 🍄</a></td>
-<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Barryclark</a></td>
-<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking/fork"><img src="https://img.shields.io/github/forks/Hack-with-Github/Awesome-Hacking.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/npm">NPM <img src="https://github.com/fork-it/weFork/raw/master/assets/icons/npm.png" alt="npm logo"></a></td>
+<td><a href="https://github.com/npm/npm">NPM</a></td>
+<td><a href="https://github.com/npm/npm/fork"><img src="https://img.shields.io/github/forks/npm/npm.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="85">85</b></td>
-<td><a href="https://github.com/fork-it/Awesome-Hacking">Awesome Hacking 🍄</a></td>
-<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Barryclark</a></td>
-<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking/fork"><img src="https://img.shields.io/github/forks/Hack-with-Github/Awesome-Hacking.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/ansible">Ansible <img src="https://github.com/fork-it/weFork/raw/master/assets/icons/ansible.png" alt="ansible logo"></a></td>
+<td><a href="https://github.com/ansible/ansible">Ansible</a></td>
+<td><a href="https://github.com/ansible/ansible/fork"><img src="https://img.shields.io/github/forks/ansible/ansible.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="86">86</b></td>
