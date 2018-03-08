@@ -627,11 +627,13 @@
 <td><a href="https://github.com/django/django">Django</a></td>
 <td><a href="https://github.com/django/django/fork"><img src="https://img.shields.io/github/forks/django/django.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
+<td>
 <td><b id="94">94</b></td>
 <td><a href="https://github.com/fork-it/vue">Vue <img src="https://github.com/fork-it/weFork/raw/master/assets/icons/vue.png" alt="vue logo"></a></td>
 <td><a href="https://github.com/vuejs/vue">Vuejs</a></td>
 <td><a href="https://github.com/vuejs/vue/fork"><img src="https://img.shields.io/github/forks/vuejs/vue.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
+<td>
 <td><b id="95">95</b></td>
 <td><a href="https://github.com/fork-it/spring-framework">Spring Framework 🌕</a></td>
 <td><a href="https://github.com/spring-projects/spring-framework">Spring Projects</a></td>
