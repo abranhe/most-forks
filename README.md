@@ -613,6 +613,11 @@
 <td><a href="https://github.com/python/cpython">Python</a></td>
 <td><a href="https://github.com/python/cpython/fork"><img src="https://img.shields.io/github/forks/python/cpython.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
+<td><b id="91">91</b></td>
+<td><a href="https://github.com/fork-it/kubernetes">Kubernetes <img src="https://github.com/fork-it/weFork/raw/master/assets/icons/kubernetes.png" alt="Kubernetes logo"><</a></td>
+<td><a href="https://github.com/kubernetes/kubernetes">Kubernetes</a></td>
+<td><a href="https://github.com/kubernetes/kubernetes/fork"><img src="https://img.shields.io/github/forks/kubernetes/kubernetes.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+</tr>
 <!-- Copy Repository Above this line -->
 	Hack-with-Github/Awesome-Hacking
 <!--</tbody>
