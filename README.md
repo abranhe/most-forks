@@ -320,7 +320,7 @@
 </tr>
 <tr>
 <td><b id="42">42</b></td>
-<td><a href="https://github.com/fork-it/d3">D3 <img src="assets/icons/d3.png" alt="d3" width="24" heigth="24"></a></td>
+<td><a href="https://github.com/fork-it/d3">D3 <img src="assets/icons/d3.png" alt="d3" width="5%" heigth="5%"></a></td>
 <td><a href="https://github.com/d3/d3">D3</a></td>
 <td><a href="https://github.com/d3/d3/fork"><img src="https://img.shields.io/github/forks/d3/d3.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
