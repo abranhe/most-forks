@@ -567,9 +567,9 @@
 </tr>
 <tr>
 <td><b id="83">83</b></td>
-<td><a href="https://github.com/fork-it/Awesome-Hacking">Awesome Hacking 🍄</a></td>
-<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Barryclark</a></td>
-<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking/fork"><img src="https://img.shields.io/github/forks/Hack-with-Github/Awesome-Hacking.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/spring-boot">Spring Boot 📣</a></td>
+<td><a href="https://github.com/spring-projects/spring-boot">Spring Projects</a></td>
+<td><a href="https://github.com/spring-projects/spring-boot/fork"><img src="https://img.shields.io/github/forks/spring-projects/spring-boot.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="84">84</b></td>
