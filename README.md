@@ -609,9 +609,9 @@
 </tr>
 <tr>
 <td><b id="90">90</b></td>
-<td><a href="https://github.com/fork-it/Awesome-Hacking">Awesome Hacking 🍄</a></td>
-<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Barryclark</a></td>
-<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking/fork"><img src="https://img.shields.io/github/forks/Hack-with-Github/Awesome-Hacking.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/cpython">C Python <img src="https://github.com/fork-it/weFork/raw/master/assets/icons/python.png" alt="Python logo"></a></td>
+<td><a href="https://github.com/python/cpython">Python</a></td>
+<td><a href="https://github.com/python/cpython/fork"><img src="https://img.shields.io/github/python/cpython.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <!-- Copy Repository Above this line -->
 	Hack-with-Github/Awesome-Hacking
