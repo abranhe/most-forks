@@ -591,9 +591,9 @@
 </tr>
 <tr>
 <td><b id="87">87</b></td>
-<td><a href="https://github.com/fork-it/Awesome-Hacking">Awesome Hacking 🍄</a></td>
-<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Barryclark</a></td>
-<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking/fork"><img src="https://img.shields.io/github/forks/Hack-with-Github/Awesome-Hacking.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/Exercism.io">Exercism.io <img src="https://github.com/fork-it/weFork/raw/master/assets/icons/exercism.png" alt="Exercism logo"></a></td>
+<td><a href="https://github.com/Exercism/Exercism.io">Exercism</a></td>
+<td><a href="https://github.com/Exercism/Exercism.io/fork"><img src="https://img.shields.io/github/forks/Exercism/Exercism.io.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="88">88</b></td>
