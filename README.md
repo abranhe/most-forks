@@ -619,14 +619,14 @@
 <td><a href="https://github.com/kubernetes/kubernetes/fork"><img src="https://img.shields.io/github/forks/kubernetes/kubernetes.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <td><b id="92">92</b></td>
-<td><a href="https://github.com/fork-it/Babel">Babel <img src="https://github.com/fork-it/weFork/raw/master/assets/icons/babel.png" alt="babel logo"></a></td>
+<td><a href="https://github.com/fork-it/Babel">Babel <img src="https://raw.githubusercontent.com/fork-it/weFork/master/assets/icons/babeljs.png" alt="babel logo"></a></td>
 <td><a href="https://github.com/babel/babel">Babel</a></td>
 <td><a href="https://github.com/babel/babel/fork"><img src="https://img.shields.io/github/forks/babel/babel.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <td><b id="93">93</b></td>
-<td><a href="https://github.com/fork-it/npm">NPM <img src="https://github.com/fork-it/weFork/raw/master/assets/icons/npm.png" alt="npm logo"></a></td>
-<td><a href="https://github.com/npm/npm">NPM</a></td>
-<td><a href="https://github.com/npm/npm/fork"><img src="https://img.shields.io/github/forks/npm/npm.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/django">Django <img src="https://github.com/fork-it/weFork/raw/master/assets/icons/django.png" alt="django logo"></a></td>
+<td><a href="https://github.com/django/django">Django</a></td>
+<td><a href="https://github.com/django/django/fork"><img src="https://img.shields.io/github/forks/django/django.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <td><b id="94">94</b></td>
 <td><a href="https://github.com/fork-it/npm">NPM <img src="https://github.com/fork-it/weFork/raw/master/assets/icons/npm.png" alt="npm logo"></a></td>
