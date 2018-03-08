@@ -628,16 +628,7 @@
 <td><a href="https://github.com/django/django">Django</a></td>
 <td><a href="https://github.com/django/django/fork"><img src="https://img.shields.io/github/forks/django/django.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
-<td><b id="94">94</b></td>
-<td><a href="https://github.com/fork-it/npm">NPM <img src="https://github.com/fork-it/weFork/raw/master/assets/icons/npm.png" alt="npm logo"></a></td>
-<td><a href="https://github.com/npm/npm">NPM</a></td>
-<td><a href="https://github.com/npm/npm/fork"><img src="https://img.shields.io/github/forks/npm/npm.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
-</tr>
-<td><b id="95">95</b></td>
-<td><a href="https://github.com/fork-it/npm">NPM <img src="https://github.com/fork-it/weFork/raw/master/assets/icons/npm.png" alt="npm logo"></a></td>
-<td><a href="https://github.com/npm/npm">NPM</a></td>
-<td><a href="https://github.com/npm/npm/fork"><img src="https://img.shields.io/github/forks/npm/npm.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
-</tr>
+
 <!-- Copy Repository Above this line -->
 	Hack-with-Github/Awesome-Hacking
 <!--</tbody>
