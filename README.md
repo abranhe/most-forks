@@ -553,6 +553,66 @@
 <td><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Barryclark</a></td>
 <td><a href="https://github.com/Hack-with-Github/Awesome-Hacking/fork"><img src="https://img.shields.io/github/forks/Hack-with-Github/Awesome-Hacking.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
+<tr>
+<td><b id="81">81</b></td>
+<td><a href="https://github.com/fork-it/models">Models 〽️</a></td>
+<td><a href="https://github.com/tensorflow/models">Tensorflow</a></td>
+<td><a href="https://github.com/tensorflow/models/fork"><img src="https://img.shields.io/github/forks/tensorflow/models.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+</tr>
+<tr>
+<td><b id="82">82</b></td>
+<td><a href="https://github.com/fork-it/Awesome-Hacking">Awesome Hacking 🍄</a></td>
+<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Barryclark</a></td>
+<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking/fork"><img src="https://img.shields.io/github/forks/Hack-with-Github/Awesome-Hacking.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+</tr>
+<tr>
+<td><b id="83">83</b></td>
+<td><a href="https://github.com/fork-it/Awesome-Hacking">Awesome Hacking 🍄</a></td>
+<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Barryclark</a></td>
+<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking/fork"><img src="https://img.shields.io/github/forks/Hack-with-Github/Awesome-Hacking.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+</tr>
+<tr>
+<td><b id="84">84</b></td>
+<td><a href="https://github.com/fork-it/Awesome-Hacking">Awesome Hacking 🍄</a></td>
+<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Barryclark</a></td>
+<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking/fork"><img src="https://img.shields.io/github/forks/Hack-with-Github/Awesome-Hacking.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+</tr>
+<tr>
+<td><b id="85">85</b></td>
+<td><a href="https://github.com/fork-it/Awesome-Hacking">Awesome Hacking 🍄</a></td>
+<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Barryclark</a></td>
+<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking/fork"><img src="https://img.shields.io/github/forks/Hack-with-Github/Awesome-Hacking.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+</tr>
+<tr>
+<td><b id="86">86</b></td>
+<td><a href="https://github.com/fork-it/Awesome-Hacking">Awesome Hacking 🍄</a></td>
+<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Barryclark</a></td>
+<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking/fork"><img src="https://img.shields.io/github/forks/Hack-with-Github/Awesome-Hacking.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+</tr>
+<tr>
+<td><b id="87">87</b></td>
+<td><a href="https://github.com/fork-it/Awesome-Hacking">Awesome Hacking 🍄</a></td>
+<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Barryclark</a></td>
+<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking/fork"><img src="https://img.shields.io/github/forks/Hack-with-Github/Awesome-Hacking.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+</tr>
+<tr>
+<td><b id="88">88</b></td>
+<td><a href="https://github.com/fork-it/Awesome-Hacking">Awesome Hacking 🍄</a></td>
+<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Barryclark</a></td>
+<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking/fork"><img src="https://img.shields.io/github/forks/Hack-with-Github/Awesome-Hacking.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+</tr>
+<tr>
+<td><b id="89">89</b></td>
+<td><a href="https://github.com/fork-it/Awesome-Hacking">Awesome Hacking 🍄</a></td>
+<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Barryclark</a></td>
+<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking/fork"><img src="https://img.shields.io/github/forks/Hack-with-Github/Awesome-Hacking.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+</tr>
+<tr>
+<td><b id="90">90</b></td>
+<td><a href="https://github.com/fork-it/Awesome-Hacking">Awesome Hacking 🍄</a></td>
+<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Barryclark</a></td>
+<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking/fork"><img src="https://img.shields.io/github/forks/Hack-with-Github/Awesome-Hacking.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+</tr>
 <!-- Copy Repository Above this line -->
 	Hack-with-Github/Awesome-Hacking
 <!--</tbody>
