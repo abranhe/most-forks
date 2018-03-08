@@ -55,15 +55,6 @@
 	<br><br>
 </h4>
 
-<h3 id="LICENSE">LICENSE</h3>
-
-<p><a href="https://github.com/fork-it/weFork/blob/master/LICENSE"><img src="assets/icons/mit-license.png" alt="LICENSE"></a></p>
-
-<h3> MIT License </h3>
-
-Copyright © 2018 <a href="https://github.com/fork-it">Fork it</a> and <a href="https://github.com/19cah">C. Abraham</a>
-
-
 <br><h4 id="repositories" align="center">Repositories <img src="assets/fork/fork15px.png" alt="Fork it!"></h4><br>
 
 <p align="center">
@@ -642,13 +633,22 @@ Copyright © 2018 <a href="https://github.com/fork-it">Fork it</a> and <a href="
 <!--</tbody>
 </table>-->
 
+<h3 id="LICENSE">LICENSE</h3>
+
+<p><a href="https://github.com/fork-it/weFork/blob/master/LICENSE"><img src="assets/icons/mit-license.png" alt="LICENSE"></a></p>
+
+<h3> MIT License </h3>
+
+Copyright © 2018 <a href="https://github.com/fork-it">Fork it</a> and <a href="https://github.com/19cah">C. Abraham</a>
+
+
 <p align="center">
-	<a href="#top">Top ⬆️ </a>
+<a href="#top">Top ⬆️ </a>
 </p>
 <p align="center">
-	<img src="assets/fork/fork50px.png" alt="Fork it">
+<img src="assets/fork/fork50px.png" alt="Fork it">
 </p>
 <p align="center">
-	<small>2018 © <b>weFork</b>. </small><br>
-	<em>let's Fork It! 🦋</em>
+<small>2018 © <b>weFork</b>. </small><br>
+<em>let's Fork It! 🦋</em>
 </p>
