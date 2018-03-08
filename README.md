@@ -597,15 +597,15 @@
 </tr>
 <tr>
 <td><b id="88">88</b></td>
-<td><a href="https://github.com/fork-it/Awesome-Hacking">Awesome Hacking 🍄</a></td>
-<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Barryclark</a></td>
-<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking/fork"><img src="https://img.shields.io/github/forks/Hack-with-Github/Awesome-Hacking.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/krops">Kops 🖇</a></td>
+<td><a href="https://github.com/kubernetes/kops">Kubernetes</a></td>
+<td><a href="https://github.com/kubernetes/kops/fork"><img src="https://img.shields.io/github/forks/kubernetes/kops.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="89">89</b></td>
-<td><a href="https://github.com/fork-it/Awesome-Hacking">Awesome Hacking 🍄</a></td>
-<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Barryclark</a></td>
-<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking/fork"><img src="https://img.shields.io/github/forks/Hack-with-Github/Awesome-Hacking.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/phantomjs">Phantomjs <img src="https://github.com/fork-it/weFork/raw/master/assets/icons/phantomjs.png" alt="Phantomjs logo"></a></td>
+<td><a href="https://github.com/ariya/phantomjs">Ariya</a></td>
+<td><a href="https://github.com/ariya/phantomjs"><img src="https://img.shields.io/github/forks/ariya/phantomjs.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="90">90</b></td>
