@@ -230,7 +230,7 @@
 </tr>
 <tr>
 <td><b id="27">27</b></td>
-<td><a href="https://github.com/fork-it/express">Express <img src="assets/icons/express.png" width="24" heigth="24" alt="Express" style="max-width:100%;"> </a></td>
+<td><a href="https://github.com/fork-it/express">Express <img src="assets/icons/express.png" width="5.8%" heigth="5.8%" alt="Express" style="max-width:100%;"> </a></td>
 <td><a href="https://github.com/expressjs/express">Expressjs</a></td>
 <td><a href="https://github.com/expressjs/express/fork"><img src="https://img.shields.io/github/forks/expressjs/express.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
