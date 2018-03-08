@@ -260,7 +260,7 @@
 </tr>
 <tr>
 <td><b id="32">32</b></td>
-<td><a href="https://github.com/fork-it/socket.io">Socket.io <img src="assets/icons/socket-io.png" width="24" heigth="24" alt="Socket.io" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/socket.io">Socket.io <img src="assets/icons/socket-io.png" width="24px" heigth="24px" alt="Socket.io" style="max-width:100%;"></a></td>
 <td><a href="https://github.com/socketio/socket.io">Socket</a></td>
 <td><a href="https://github.com/socketio/socket.io/fork"><img src="https://img.shields.io/github/forks/socketio/socket.io.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
@@ -320,7 +320,7 @@
 </tr>
 <tr>
 <td><b id="42">42</b></td>
-<td><a href="https://github.com/fork-it/d3">D3 <img src="assets/icons/d3.png" alt="d3" width="24" heigth="24" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/d3">D3 <img src="assets/icons/d3.png" alt="d3" width="24" heigth="24"></a></td>
 <td><a href="https://github.com/d3/d3">D3</a></td>
 <td><a href="https://github.com/d3/d3/fork"><img src="https://img.shields.io/github/forks/d3/d3.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
