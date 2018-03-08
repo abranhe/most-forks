@@ -643,7 +643,7 @@
 </tbody>
 </table>
 
-<h3 id="LICENSE">LICENSE</h3>
+<br><br><h3 id="LICENSE">LICENSE</h3>
 
 <p><a href="https://github.com/fork-it/weFork/blob/master/LICENSE"><img src="assets/icons/mit-license.png" alt="LICENSE"></a></p>
 
