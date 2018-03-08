@@ -55,6 +55,15 @@
 	<br><br>
 </h4>
 
+<h3 id="LICENSE">LICENSE</h3>
+
+<p><a href="https://github.com/fork-it/weFork/blob/master/LICENSE"><img src="assets/icons/mit-license.png" alt="LICENSE"></a></p>
+
+<h3> MIT License </h3>
+
+Copyright © 2018 <a href="https://github.com/fork-it">Fork it</a> and <a href="https://github.com/19cah">C. Abraham</a>
+
+
 <br><h4 id="repositories" align="center">Repositories <img src="assets/fork/fork15px.png" alt="Fork it!"></h4><br>
 
 <p align="center">
@@ -628,31 +637,10 @@
 <td><a href="https://github.com/django/django">Django</a></td>
 <td><a href="https://github.com/django/django/fork"><img src="https://img.shields.io/github/forks/django/django.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
-
 <!-- Copy Repository Above this line -->
 	Hack-with-Github/Awesome-Hacking
 <!--</tbody>
 </table>-->
-
-
-<h3 id="LICENSE">LICENSE</h3>
-
-<p><a href="https://github.com/fork-it/weFork/blob/master/LICENSE"><img src="assets/icons/mit-license.png" alt="LICENSE"></a></p>
-
-<h3> MIT License </h3>
-
-Copyright © 2018 <a href="https://github.com/fork-it">Fork it</a> and <a href="https://github.com/19cah">C. Abraham</a> 
-<p>
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the conditions in <a href="https://github.com/fork-it/weFork/blob/master/LICENSE">License</a>:
-</p>
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
 
 <p align="center">
 	<a href="#top">Top ⬆️ </a>
