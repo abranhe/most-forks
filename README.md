@@ -585,9 +585,9 @@
 </tr>
 <tr>
 <td><b id="86">86</b></td>
-<td><a href="https://github.com/fork-it/Awesome-Hacking">Awesome Hacking 🍄</a></td>
-<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Barryclark</a></td>
-<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking/fork"><img src="https://img.shields.io/github/forks/Hack-with-Github/Awesome-Hacking.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
+<td><a href="https://github.com/fork-it/angular-cli">Angular CLI ♦️</a></td>
+<td><a href="https://github.com/angular/angular-cli">Angular</a></td>
+<td><a href="https://github.com/angular/angular-cli/fork"><img src="https://img.shields.io/github/forks/angular/angular-cli.svg?style=social&amp;label=Fork" style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td><b id="87">87</b></td>
