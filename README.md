@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<a href="https://weFork.ga/no/1.svg" alt="Included in weFork">
+	<a href="https://weFork.ga/#1" alt="Included in weFork"><img src="https://wefork.ga/no/1.svg"></a>
 </p>
 	
 <h4 align="center">
